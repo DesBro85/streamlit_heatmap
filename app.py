@@ -65,3 +65,6 @@ plt.colorbar(c, ax=ax, label="Accuracy (%)")
 plt.title(f"Heatmap: {selected_player}", fontsize=18)
 
 st.pyplot(fig)
+
+# Commit to Git
+# Trigger redeploy: Minor comment update
