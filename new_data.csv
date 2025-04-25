@@ -1,841 +1,2521 @@
-﻿X,Y,Accuracy,Player
-1,1,100%,Bird
-2,1,100%,Bird
-3,1,100%,Bird
-4,1,100%,Bird
-5,1,100%,Bird
-6,1,100%,Bird
-7,1,100%,Bird
-8,1,100%,Bird
-1,2,60%,Bird
-2,2,0%,Bird
-3,2,50%,Bird
-4,2,0%,Bird
-5,2,0%,Bird
-6,2,100%,Bird
-7,2,100%,Bird
-8,2,0%,Bird
-1,3,0%,Bird
-2,3,0%,Bird
-3,3,100%,Bird
-4,3,0%,Bird
-5,3,0%,Bird
-6,3,0%,Bird
-7,3,0%,Bird
-8,3,0%,Bird
-1,4,0%,Bird
-2,4,0%,Bird
-3,4,0%,Bird
-4,4,0%,Bird
-5,4,0%,Bird
-6,4,0%,Bird
-7,4,0%,Bird
-8,4,0%,Bird
-1,5,0%,Bird
-2,5,0%,Bird
-3,5,0%,Bird
-4,5,100%,Bird
-5,5,0%,Bird
-6,5,0%,Bird
-7,5,0%,Bird
-8,5,0%,Bird
-1,1,100%,Day
-2,1,0%,Day
-3,1,0%,Day
-4,1,0%,Day
-5,1,0%,Day
-6,1,0%,Day
-7,1,0%,Day
-8,1,0%,Day
-1,2,100%,Day
-2,2,100%,Day
-3,2,0%,Day
-4,2,0%,Day
-5,2,0%,Day
-6,2,0%,Day
-7,2,0%,Day
-8,2,0%,Day
-1,3,0%,Day
-2,3,0%,Day
-3,3,0%,Day
-4,3,0%,Day
-5,3,0%,Day
-6,3,100%,Day
-7,3,0%,Day
-8,3,0%,Day
-1,4,0%,Day
-2,4,0%,Day
-3,4,0%,Day
-4,4,0%,Day
-5,4,0%,Day
-6,4,0%,Day
-7,4,0%,Day
-8,4,100%,Day
-1,5,0%,Day
-2,5,0%,Day
-3,5,0%,Day
-4,5,0%,Day
-5,5,0%,Day
-6,5,0%,Day
-7,5,0%,Day
-8,5,0%,Day
-1,1,100%,Dijkstra
-2,1,100%,Dijkstra
-3,1,100%,Dijkstra
-4,1,0%,Dijkstra
-5,1,0%,Dijkstra
-6,1,100%,Dijkstra
-7,1,67%,Dijkstra
-8,1,100%,Dijkstra
-1,2,100%,Dijkstra
-2,2,100%,Dijkstra
-3,2,0%,Dijkstra
-4,2,0%,Dijkstra
-5,2,0%,Dijkstra
-6,2,100%,Dijkstra
-7,2,0%,Dijkstra
-8,2,0%,Dijkstra
-1,3,0%,Dijkstra
-2,3,0%,Dijkstra
-3,3,0%,Dijkstra
-4,3,0%,Dijkstra
-5,3,0%,Dijkstra
-6,3,0%,Dijkstra
-7,3,0%,Dijkstra
-8,3,0%,Dijkstra
-1,4,0%,Dijkstra
-2,4,0%,Dijkstra
-3,4,0%,Dijkstra
-4,4,0%,Dijkstra
-5,4,0%,Dijkstra
-6,4,0%,Dijkstra
-7,4,0%,Dijkstra
-8,4,0%,Dijkstra
-1,5,0%,Dijkstra
-2,5,0%,Dijkstra
-3,5,0%,Dijkstra
-4,5,100%,Dijkstra
-5,5,0%,Dijkstra
-6,5,0%,Dijkstra
-7,5,0%,Dijkstra
-8,5,0%,Dijkstra
-1,1,0%,Dunn
-2,1,0%,Dunn
-3,1,100%,Dunn
-4,1,100%,Dunn
-5,1,0%,Dunn
-6,1,100%,Dunn
-7,1,100%,Dunn
-8,1,100%,Dunn
-1,2,0%,Dunn
-2,2,0%,Dunn
-3,2,0%,Dunn
-4,2,0%,Dunn
-5,2,0%,Dunn
-6,2,0%,Dunn
-7,2,100%,Dunn
-8,2,0%,Dunn
-1,3,0%,Dunn
-2,3,100%,Dunn
-3,3,0%,Dunn
-4,3,0%,Dunn
-5,3,0%,Dunn
-6,3,0%,Dunn
-7,3,0%,Dunn
-8,3,0%,Dunn
-1,4,0%,Dunn
-2,4,0%,Dunn
-3,4,0%,Dunn
-4,4,0%,Dunn
-5,4,0%,Dunn
-6,4,0%,Dunn
-7,4,0%,Dunn
-8,4,0%,Dunn
-1,5,0%,Dunn
-2,5,0%,Dunn
-3,5,0%,Dunn
-4,5,0%,Dunn
-5,5,0%,Dunn
-6,5,0%,Dunn
-7,5,100%,Dunn
-8,5,100%,Dunn
-1,1,100%,Ekenasio
-2,1,100%,Ekenasio
-3,1,0%,Ekenasio
-4,1,0%,Ekenasio
-5,1,0%,Ekenasio
-6,1,0%,Ekenasio
-7,1,0%,Ekenasio
-8,1,100%,Ekenasio
-1,2,100%,Ekenasio
-2,2,100%,Ekenasio
-3,2,100%,Ekenasio
-4,2,0%,Ekenasio
-5,2,0%,Ekenasio
-6,2,0%,Ekenasio
-7,2,100%,Ekenasio
-8,2,100%,Ekenasio
-1,3,0%,Ekenasio
-2,3,100%,Ekenasio
-3,3,0%,Ekenasio
-4,3,0%,Ekenasio
-5,3,50%,Ekenasio
-6,3,0%,Ekenasio
-7,3,0%,Ekenasio
-8,3,0%,Ekenasio
-1,4,0%,Ekenasio
-2,4,0%,Ekenasio
-3,4,100%,Ekenasio
-4,4,0%,Ekenasio
-5,4,0%,Ekenasio
-6,4,0%,Ekenasio
-7,4,0%,Ekenasio
-8,4,0%,Ekenasio
-1,5,0%,Ekenasio
-2,5,0%,Ekenasio
-3,5,25%,Ekenasio
-4,5,0%,Ekenasio
-5,5,100%,Ekenasio
-6,5,67%,Ekenasio
-7,5,0%,Ekenasio
-8,5,0%,Ekenasio
-1,1,0%,Heffernan
-2,1,0%,Heffernan
-3,1,0%,Heffernan
-4,1,0%,Heffernan
-5,1,100%,Heffernan
-6,1,0%,Heffernan
-7,1,0%,Heffernan
-8,1,0%,Heffernan
-1,2,0%,Heffernan
-2,2,100%,Heffernan
-3,2,0%,Heffernan
-4,2,0%,Heffernan
-5,2,0%,Heffernan
-6,2,0%,Heffernan
-7,2,0%,Heffernan
-8,2,0%,Heffernan
-1,3,0%,Heffernan
-2,3,0%,Heffernan
-3,3,0%,Heffernan
-4,3,0%,Heffernan
-5,3,0%,Heffernan
-6,3,0%,Heffernan
-7,3,0%,Heffernan
-8,3,0%,Heffernan
-1,4,0%,Heffernan
-2,4,0%,Heffernan
-3,4,0%,Heffernan
-4,4,0%,Heffernan
-5,4,0%,Heffernan
-6,4,0%,Heffernan
-7,4,0%,Heffernan
-8,4,0%,Heffernan
-1,5,50%,Heffernan
-2,5,0%,Heffernan
-3,5,0%,Heffernan
-4,5,0%,Heffernan
-5,5,0%,Heffernan
-6,5,0%,Heffernan
-7,5,100%,Heffernan
-8,5,0%,Heffernan
-1,1,100%,Lafi'ili
-2,1,100%,Lafi'ili
-3,1,0%,Lafi'ili
-4,1,0%,Lafi'ili
-5,1,50%,Lafi'ili
-6,1,100%,Lafi'ili
-7,1,100%,Lafi'ili
-8,1,0%,Lafi'ili
-1,2,100%,Lafi'ili
-2,2,100%,Lafi'ili
-3,2,100%,Lafi'ili
-4,2,0%,Lafi'ili
-5,2,0%,Lafi'ili
-6,2,0%,Lafi'ili
-7,2,0%,Lafi'ili
-8,2,0%,Lafi'ili
-1,3,0%,Lafi'ili
-2,3,0%,Lafi'ili
-3,3,0%,Lafi'ili
-4,3,0%,Lafi'ili
-5,3,100%,Lafi'ili
-6,3,0%,Lafi'ili
-7,3,0%,Lafi'ili
-8,3,0%,Lafi'ili
-1,4,100%,Lafi'ili
-2,4,0%,Lafi'ili
-3,4,0%,Lafi'ili
-4,4,0%,Lafi'ili
-5,4,0%,Lafi'ili
-6,4,0%,Lafi'ili
-7,4,0%,Lafi'ili
-8,4,100%,Lafi'ili
-1,5,50%,Lafi'ili
-2,5,0%,Lafi'ili
-3,5,0%,Lafi'ili
-4,5,0%,Lafi'ili
-5,5,0%,Lafi'ili
-6,5,100%,Lafi'ili
-7,5,0%,Lafi'ili
-8,5,0%,Lafi'ili
-1,1,0%,Malesala
-2,1,0%,Malesala
-3,1,0%,Malesala
-4,1,0%,Malesala
-5,1,0%,Malesala
-6,1,0%,Malesala
-7,1,0%,Malesala
-8,1,100%,Malesala
-1,2,0%,Malesala
-2,2,0%,Malesala
-3,2,0%,Malesala
-4,2,0%,Malesala
-5,2,0%,Malesala
-6,2,0%,Malesala
-7,2,0%,Malesala
-8,2,0%,Malesala
-1,3,0%,Malesala
-2,3,0%,Malesala
-3,3,0%,Malesala
-4,3,0%,Malesala
-5,3,0%,Malesala
-6,3,0%,Malesala
-7,3,0%,Malesala
-8,3,0%,Malesala
-1,4,0%,Malesala
-2,4,0%,Malesala
-3,4,0%,Malesala
-4,4,0%,Malesala
-5,4,0%,Malesala
-6,4,0%,Malesala
-7,4,0%,Malesala
-8,4,0%,Malesala
-1,5,0%,Malesala
-2,5,0%,Malesala
-3,5,0%,Malesala
-4,5,0%,Malesala
-5,5,0%,Malesala
-6,5,0%,Malesala
-7,5,0%,Malesala
-8,5,0%,Malesala
-1,1,0%,Pelasio
-2,1,0%,Pelasio
-3,1,0%,Pelasio
-4,1,0%,Pelasio
-5,1,0%,Pelasio
-6,1,0%,Pelasio
-7,1,0%,Pelasio
-8,1,0%,Pelasio
-1,2,0%,Pelasio
-2,2,100%,Pelasio
-3,2,0%,Pelasio
-4,2,0%,Pelasio
-5,2,0%,Pelasio
-6,2,0%,Pelasio
-7,2,100%,Pelasio
-8,2,0%,Pelasio
-1,3,0%,Pelasio
-2,3,0%,Pelasio
-3,3,100%,Pelasio
-4,3,100%,Pelasio
-5,3,0%,Pelasio
-6,3,0%,Pelasio
-7,3,0%,Pelasio
-8,3,0%,Pelasio
-1,4,0%,Pelasio
-2,4,0%,Pelasio
-3,4,100%,Pelasio
-4,4,40%,Pelasio
-5,4,33%,Pelasio
-6,4,100%,Pelasio
-7,4,0%,Pelasio
-8,4,0%,Pelasio
-1,5,0%,Pelasio
-2,5,0%,Pelasio
-3,5,100%,Pelasio
-4,5,100%,Pelasio
-5,5,50%,Pelasio
-6,5,75%,Pelasio
-7,5,33%,Pelasio
-8,5,0%,Pelasio
-1,1,100%,Salmon
-2,1,100%,Salmon
-3,1,100%,Salmon
-4,1,100%,Salmon
-5,1,100%,Salmon
-6,1,100%,Salmon
-7,1,100%,Salmon
-8,1,83%,Salmon
-1,2,100%,Salmon
-2,2,100%,Salmon
-3,2,100%,Salmon
-4,2,0%,Salmon
-5,2,100%,Salmon
-6,2,100%,Salmon
-7,2,100%,Salmon
-8,2,100%,Salmon
-1,3,0%,Salmon
-2,3,0%,Salmon
-3,3,0%,Salmon
-4,3,0%,Salmon
-5,3,100%,Salmon
-6,3,0%,Salmon
-7,3,0%,Salmon
-8,3,0%,Salmon
-1,4,0%,Salmon
-2,4,0%,Salmon
-3,4,0%,Salmon
-4,4,0%,Salmon
-5,4,0%,Salmon
-6,4,0%,Salmon
-7,4,0%,Salmon
-8,4,0%,Salmon
-1,5,0%,Salmon
-2,5,0%,Salmon
-3,5,0%,Salmon
-4,5,0%,Salmon
-5,5,0%,Salmon
-6,5,0%,Salmon
-7,5,0%,Salmon
-8,5,0%,Salmon
-1,1,100%,Schwalger
-2,1,0%,Schwalger
-3,1,100%,Schwalger
-4,1,100%,Schwalger
-5,1,0%,Schwalger
-6,1,0%,Schwalger
-7,1,100%,Schwalger
-8,1,100%,Schwalger
-1,2,0%,Schwalger
-2,2,0%,Schwalger
-3,2,100%,Schwalger
-4,2,0%,Schwalger
-5,2,0%,Schwalger
-6,2,50%,Schwalger
-7,2,0%,Schwalger
-8,2,0%,Schwalger
-1,3,0%,Schwalger
-2,3,100%,Schwalger
-3,3,0%,Schwalger
-4,3,0%,Schwalger
-5,3,0%,Schwalger
-6,3,0%,Schwalger
-7,3,0%,Schwalger
-8,3,0%,Schwalger
-1,4,0%,Schwalger
-2,4,0%,Schwalger
-3,4,0%,Schwalger
-4,4,0%,Schwalger
-5,4,0%,Schwalger
-6,4,100%,Schwalger
-7,4,0%,Schwalger
-8,4,0%,Schwalger
-1,5,0%,Schwalger
-2,5,0%,Schwalger
-3,5,0%,Schwalger
-4,5,0%,Schwalger
-5,5,0%,Schwalger
-6,5,0%,Schwalger
-7,5,0%,Schwalger
-8,5,0%,Schwalger
-1,1,0%,Selby-Rickett
-2,1,100%,Selby-Rickett
-3,1,0%,Selby-Rickett
-4,1,0%,Selby-Rickett
-5,1,0%,Selby-Rickett
-6,1,0%,Selby-Rickett
-7,1,100%,Selby-Rickett
-8,1,100%,Selby-Rickett
-1,2,0%,Selby-Rickett
-2,2,100%,Selby-Rickett
-3,2,100%,Selby-Rickett
-4,2,0%,Selby-Rickett
-5,2,100%,Selby-Rickett
-6,2,0%,Selby-Rickett
-7,2,0%,Selby-Rickett
-8,2,100%,Selby-Rickett
-1,3,100%,Selby-Rickett
-2,3,0%,Selby-Rickett
-3,3,0%,Selby-Rickett
-4,3,100%,Selby-Rickett
-5,3,0%,Selby-Rickett
-6,3,50%,Selby-Rickett
-7,3,100%,Selby-Rickett
-8,3,100%,Selby-Rickett
-1,4,0%,Selby-Rickett
-2,4,0%,Selby-Rickett
-3,4,0%,Selby-Rickett
-4,4,0%,Selby-Rickett
-5,4,0%,Selby-Rickett
-6,4,100%,Selby-Rickett
-7,4,0%,Selby-Rickett
-8,4,100%,Selby-Rickett
-1,5,100%,Selby-Rickett
-2,5,50%,Selby-Rickett
-3,5,0%,Selby-Rickett
-4,5,50%,Selby-Rickett
-5,5,0%,Selby-Rickett
-6,5,100%,Selby-Rickett
-7,5,0%,Selby-Rickett
-8,5,100%,Selby-Rickett
-1,1,0%,Southby
-2,1,0%,Southby
-3,1,0%,Southby
-4,1,0%,Southby
-5,1,0%,Southby
-6,1,0%,Southby
-7,1,100%,Southby
-8,1,0%,Southby
-1,2,0%,Southby
-2,2,0%,Southby
-3,2,0%,Southby
-4,2,0%,Southby
-5,2,0%,Southby
-6,2,0%,Southby
-7,2,0%,Southby
-8,2,0%,Southby
-1,3,0%,Southby
-2,3,100%,Southby
-3,3,0%,Southby
-4,3,100%,Southby
-5,3,0%,Southby
-6,3,0%,Southby
-7,3,0%,Southby
-8,3,0%,Southby
-1,4,0%,Southby
-2,4,0%,Southby
-3,4,0%,Southby
-4,4,100%,Southby
-5,4,0%,Southby
-6,4,50%,Southby
-7,4,0%,Southby
-8,4,0%,Southby
-1,5,0%,Southby
-2,5,100%,Southby
-3,5,0%,Southby
-4,5,0%,Southby
-5,5,0%,Southby
-6,5,0%,Southby
-7,5,0%,Southby
-8,5,100%,Southby
-1,1,100%,Taylor
-2,1,50%,Taylor
-3,1,0%,Taylor
-4,1,0%,Taylor
-5,1,100%,Taylor
-6,1,100%,Taylor
-7,1,0%,Taylor
-8,1,100%,Taylor
-1,2,0%,Taylor
-2,2,100%,Taylor
-3,2,0%,Taylor
-4,2,0%,Taylor
-5,2,0%,Taylor
-6,2,0%,Taylor
-7,2,0%,Taylor
-8,2,0%,Taylor
-1,3,0%,Taylor
-2,3,0%,Taylor
-3,3,0%,Taylor
-4,3,0%,Taylor
-5,3,0%,Taylor
-6,3,0%,Taylor
-7,3,0%,Taylor
-8,3,0%,Taylor
-1,4,0%,Taylor
-2,4,0%,Taylor
-3,4,0%,Taylor
-4,4,0%,Taylor
-5,4,0%,Taylor
-6,4,0%,Taylor
-7,4,0%,Taylor
-8,4,0%,Taylor
-1,5,0%,Taylor
-2,5,0%,Taylor
-3,5,0%,Taylor
-4,5,0%,Taylor
-5,5,0%,Taylor
-6,5,0%,Taylor
-7,5,0%,Taylor
-8,5,0%,Taylor
-1,1,50%,Temu
-2,1,0%,Temu
-3,1,100%,Temu
-4,1,100%,Temu
-5,1,100%,Temu
-6,1,100%,Temu
-7,1,0%,Temu
-8,1,86%,Temu
-1,2,0%,Temu
-2,2,0%,Temu
-3,2,0%,Temu
-4,2,100%,Temu
-5,2,0%,Temu
-6,2,0%,Temu
-7,2,0%,Temu
-8,2,0%,Temu
-1,3,0%,Temu
-2,3,0%,Temu
-3,3,0%,Temu
-4,3,0%,Temu
-5,3,0%,Temu
-6,3,0%,Temu
-7,3,0%,Temu
-8,3,0%,Temu
-1,4,0%,Temu
-2,4,0%,Temu
-3,4,0%,Temu
-4,4,0%,Temu
-5,4,0%,Temu
-6,4,0%,Temu
-7,4,100%,Temu
-8,4,0%,Temu
-1,5,0%,Temu
-2,5,0%,Temu
-3,5,0%,Temu
-4,5,0%,Temu
-5,5,0%,Temu
-6,5,0%,Temu
-7,5,0%,Temu
-8,5,0%,Temu
-1,1,0%,Toeava
-2,1,0%,Toeava
-3,1,0%,Toeava
-4,1,0%,Toeava
-5,1,0%,Toeava
-6,1,0%,Toeava
-7,1,0%,Toeava
-8,1,0%,Toeava
-1,2,0%,Toeava
-2,2,0%,Toeava
-3,2,0%,Toeava
-4,2,0%,Toeava
-5,2,0%,Toeava
-6,2,0%,Toeava
-7,2,0%,Toeava
-8,2,0%,Toeava
-1,3,0%,Toeava
-2,3,0%,Toeava
-3,3,0%,Toeava
-4,3,0%,Toeava
-5,3,0%,Toeava
-6,3,0%,Toeava
-7,3,0%,Toeava
-8,3,0%,Toeava
-1,4,0%,Toeava
-2,4,0%,Toeava
-3,4,0%,Toeava
-4,4,0%,Toeava
-5,4,0%,Toeava
-6,4,0%,Toeava
-7,4,0%,Toeava
-8,4,0%,Toeava
-1,5,0%,Toeava
-2,5,0%,Toeava
-3,5,0%,Toeava
-4,5,0%,Toeava
-5,5,0%,Toeava
-6,5,0%,Toeava
-7,5,0%,Toeava
-8,5,0%,Toeava
-1,1,100%,Tui
-2,1,100%,Tui
-3,1,100%,Tui
-4,1,100%,Tui
-5,1,100%,Tui
-6,1,100%,Tui
-7,1,100%,Tui
-8,1,67%,Tui
-1,2,100%,Tui
-2,2,0%,Tui
-3,2,0%,Tui
-4,2,0%,Tui
-5,2,0%,Tui
-6,2,0%,Tui
-7,2,100%,Tui
-8,2,0%,Tui
-1,3,0%,Tui
-2,3,0%,Tui
-3,3,0%,Tui
-4,3,0%,Tui
-5,3,0%,Tui
-6,3,0%,Tui
-7,3,0%,Tui
-8,3,0%,Tui
-1,4,0%,Tui
-2,4,0%,Tui
-3,4,0%,Tui
-4,4,0%,Tui
-5,4,0%,Tui
-6,4,0%,Tui
-7,4,100%,Tui
-8,4,0%,Tui
-1,5,0%,Tui
-2,5,50%,Tui
-3,5,0%,Tui
-4,5,0%,Tui
-5,5,100%,Tui
-6,5,50%,Tui
-7,5,0%,Tui
-8,5,0%,Tui
-1,1,100%,Vui
-2,1,0%,Vui
-3,1,33%,Vui
-4,1,0%,Vui
-5,1,0%,Vui
-6,1,0%,Vui
-7,1,50%,Vui
-8,1,0%,Vui
-1,2,100%,Vui
-2,2,0%,Vui
-3,2,100%,Vui
-4,2,0%,Vui
-5,2,0%,Vui
-6,2,100%,Vui
-7,2,0%,Vui
-8,2,0%,Vui
-1,3,100%,Vui
-2,3,50%,Vui
-3,3,100%,Vui
-4,3,0%,Vui
-5,3,0%,Vui
-6,3,100%,Vui
-7,3,0%,Vui
-8,3,67%,Vui
-1,4,0%,Vui
-2,4,0%,Vui
-3,4,0%,Vui
-4,4,0%,Vui
-5,4,0%,Vui
-6,4,0%,Vui
-7,4,100%,Vui
-8,4,0%,Vui
-1,5,0%,Vui
-2,5,33%,Vui
-3,5,67%,Vui
-4,5,0%,Vui
-5,5,100%,Vui
-6,5,100%,Vui
-7,5,100%,Vui
-8,5,0%,Vui
-1,1,100%,Wallam
-2,1,100%,Wallam
-3,1,92%,Wallam
-4,1,78%,Wallam
-5,1,83%,Wallam
-6,1,100%,Wallam
-7,1,100%,Wallam
-8,1,78%,Wallam
-1,2,100%,Wallam
-2,2,100%,Wallam
-3,2,0%,Wallam
-4,2,0%,Wallam
-5,2,0%,Wallam
-6,2,83%,Wallam
-7,2,100%,Wallam
-8,2,100%,Wallam
-1,3,0%,Wallam
-2,3,0%,Wallam
-3,3,0%,Wallam
-4,3,0%,Wallam
-5,3,0%,Wallam
-6,3,0%,Wallam
-7,3,0%,Wallam
-8,3,0%,Wallam
-1,4,0%,Wallam
-2,4,0%,Wallam
-3,4,0%,Wallam
-4,4,100%,Wallam
-5,4,0%,Wallam
-6,4,0%,Wallam
-7,4,0%,Wallam
-8,4,0%,Wallam
-1,5,100%,Wallam
-2,5,0%,Wallam
-3,5,0%,Wallam
-4,5,0%,Wallam
-5,5,20%,Wallam
-6,5,0%,Wallam
-7,5,0%,Wallam
-8,5,0%,Wallam
-1,1,100%,Walmsley
-2,1,100%,Walmsley
-3,1,100%,Walmsley
-4,1,100%,Walmsley
-5,1,100%,Walmsley
-6,1,100%,Walmsley
-7,1,83%,Walmsley
-8,1,100%,Walmsley
-1,2,100%,Walmsley
-2,2,100%,Walmsley
-3,2,100%,Walmsley
-4,2,0%,Walmsley
-5,2,0%,Walmsley
-6,2,0%,Walmsley
-7,2,100%,Walmsley
-8,2,0%,Walmsley
-1,3,0%,Walmsley
-2,3,0%,Walmsley
-3,3,0%,Walmsley
-4,3,0%,Walmsley
-5,3,0%,Walmsley
-6,3,0%,Walmsley
-7,3,0%,Walmsley
-8,3,0%,Walmsley
-1,4,0%,Walmsley
-2,4,0%,Walmsley
-3,4,0%,Walmsley
-4,4,0%,Walmsley
-5,4,0%,Walmsley
-6,4,0%,Walmsley
-7,4,0%,Walmsley
-8,4,0%,Walmsley
-1,5,0%,Walmsley
-2,5,0%,Walmsley
-3,5,0%,Walmsley
-4,5,0%,Walmsley
-5,5,0%,Walmsley
-6,5,100%,Walmsley
-7,5,0%,Walmsley
-8,5,0%,Walmsley
-1,1,0%,Williams
-2,1,0%,Williams
-3,1,0%,Williams
-4,1,0%,Williams
-5,1,0%,Williams
-6,1,0%,Williams
-7,1,0%,Williams
-8,1,0%,Williams
-1,2,0%,Williams
-2,2,0%,Williams
-3,2,0%,Williams
-4,2,0%,Williams
-5,2,0%,Williams
-6,2,0%,Williams
-7,2,0%,Williams
-8,2,0%,Williams
-1,3,0%,Williams
-2,3,0%,Williams
-3,3,0%,Williams
-4,3,0%,Williams
-5,3,0%,Williams
-6,3,0%,Williams
-7,3,0%,Williams
-8,3,0%,Williams
-1,4,0%,Williams
-2,4,0%,Williams
-3,4,0%,Williams
-4,4,0%,Williams
-5,4,0%,Williams
-6,4,0%,Williams
-7,4,0%,Williams
-8,4,0%,Williams
-1,5,0%,Williams
-2,5,0%,Williams
-3,5,0%,Williams
-4,5,0%,Williams
-5,5,0%,Williams
-6,5,0%,Williams
-7,5,0%,Williams
-8,5,0%,Williams
+﻿X,Y,Accuracy,Player,Period
+1,1,100%,Bird,1 point
+2,1,100%,Bird,1 point
+3,1,100%,Bird,1 point
+4,1,0%,Bird,1 point
+5,1,100%,Bird,1 point
+6,1,100%,Bird,1 point
+7,1,100%,Bird,1 point
+8,1,100%,Bird,1 point
+1,2,60%,Bird,1 point
+2,2,0%,Bird,1 point
+3,2,50%,Bird,1 point
+4,2,0%,Bird,1 point
+5,2,0%,Bird,1 point
+6,2,100%,Bird,1 point
+7,2,100%,Bird,1 point
+8,2,0%,Bird,1 point
+1,3,0%,Bird,1 point
+2,3,0%,Bird,1 point
+3,3,100%,Bird,1 point
+4,3,0%,Bird,1 point
+5,3,0%,Bird,1 point
+6,3,0%,Bird,1 point
+7,3,0%,Bird,1 point
+8,3,0%,Bird,1 point
+1,4,0%,Bird,1 point
+2,4,0%,Bird,1 point
+3,4,0%,Bird,1 point
+4,4,0%,Bird,1 point
+5,4,0%,Bird,1 point
+6,4,0%,Bird,1 point
+7,4,0%,Bird,1 point
+8,4,0%,Bird,1 point
+1,5,0%,Bird,1 point
+2,5,0%,Bird,1 point
+3,5,0%,Bird,1 point
+4,5,100%,Bird,1 point
+5,5,0%,Bird,1 point
+6,5,0%,Bird,1 point
+7,5,0%,Bird,1 point
+8,5,0%,Bird,1 point
+1,1,100%,Day,1 point
+2,1,0%,Day,1 point
+3,1,0%,Day,1 point
+4,1,0%,Day,1 point
+5,1,0%,Day,1 point
+6,1,0%,Day,1 point
+7,1,0%,Day,1 point
+8,1,0%,Day,1 point
+1,2,100%,Day,1 point
+2,2,0%,Day,1 point
+3,2,0%,Day,1 point
+4,2,0%,Day,1 point
+5,2,0%,Day,1 point
+6,2,0%,Day,1 point
+7,2,0%,Day,1 point
+8,2,0%,Day,1 point
+1,3,0%,Day,1 point
+2,3,0%,Day,1 point
+3,3,0%,Day,1 point
+4,3,0%,Day,1 point
+5,3,0%,Day,1 point
+6,3,100%,Day,1 point
+7,3,0%,Day,1 point
+8,3,0%,Day,1 point
+1,4,0%,Day,1 point
+2,4,0%,Day,1 point
+3,4,0%,Day,1 point
+4,4,0%,Day,1 point
+5,4,0%,Day,1 point
+6,4,0%,Day,1 point
+7,4,0%,Day,1 point
+8,4,100%,Day,1 point
+1,5,0%,Day,1 point
+2,5,0%,Day,1 point
+3,5,0%,Day,1 point
+4,5,0%,Day,1 point
+5,5,0%,Day,1 point
+6,5,0%,Day,1 point
+7,5,0%,Day,1 point
+8,5,0%,Day,1 point
+1,1,100%,Dijkstra,1 point
+2,1,100%,Dijkstra,1 point
+3,1,100%,Dijkstra,1 point
+4,1,0%,Dijkstra,1 point
+5,1,0%,Dijkstra,1 point
+6,1,100%,Dijkstra,1 point
+7,1,67%,Dijkstra,1 point
+8,1,100%,Dijkstra,1 point
+1,2,100%,Dijkstra,1 point
+2,2,100%,Dijkstra,1 point
+3,2,0%,Dijkstra,1 point
+4,2,0%,Dijkstra,1 point
+5,2,0%,Dijkstra,1 point
+6,2,100%,Dijkstra,1 point
+7,2,0%,Dijkstra,1 point
+8,2,0%,Dijkstra,1 point
+1,3,0%,Dijkstra,1 point
+2,3,0%,Dijkstra,1 point
+3,3,0%,Dijkstra,1 point
+4,3,0%,Dijkstra,1 point
+5,3,0%,Dijkstra,1 point
+6,3,0%,Dijkstra,1 point
+7,3,0%,Dijkstra,1 point
+8,3,0%,Dijkstra,1 point
+1,4,0%,Dijkstra,1 point
+2,4,0%,Dijkstra,1 point
+3,4,0%,Dijkstra,1 point
+4,4,0%,Dijkstra,1 point
+5,4,0%,Dijkstra,1 point
+6,4,0%,Dijkstra,1 point
+7,4,0%,Dijkstra,1 point
+8,4,0%,Dijkstra,1 point
+1,5,0%,Dijkstra,1 point
+2,5,0%,Dijkstra,1 point
+3,5,0%,Dijkstra,1 point
+4,5,0%,Dijkstra,1 point
+5,5,0%,Dijkstra,1 point
+6,5,0%,Dijkstra,1 point
+7,5,0%,Dijkstra,1 point
+8,5,0%,Dijkstra,1 point
+1,1,0%,Dunn,1 point
+2,1,0%,Dunn,1 point
+3,1,100%,Dunn,1 point
+4,1,100%,Dunn,1 point
+5,1,0%,Dunn,1 point
+6,1,100%,Dunn,1 point
+7,1,100%,Dunn,1 point
+8,1,100%,Dunn,1 point
+1,2,0%,Dunn,1 point
+2,2,0%,Dunn,1 point
+3,2,0%,Dunn,1 point
+4,2,0%,Dunn,1 point
+5,2,0%,Dunn,1 point
+6,2,0%,Dunn,1 point
+7,2,100%,Dunn,1 point
+8,2,0%,Dunn,1 point
+1,3,0%,Dunn,1 point
+2,3,100%,Dunn,1 point
+3,3,0%,Dunn,1 point
+4,3,0%,Dunn,1 point
+5,3,0%,Dunn,1 point
+6,3,0%,Dunn,1 point
+7,3,0%,Dunn,1 point
+8,3,0%,Dunn,1 point
+1,4,0%,Dunn,1 point
+2,4,0%,Dunn,1 point
+3,4,0%,Dunn,1 point
+4,4,0%,Dunn,1 point
+5,4,0%,Dunn,1 point
+6,4,0%,Dunn,1 point
+7,4,0%,Dunn,1 point
+8,4,0%,Dunn,1 point
+1,5,0%,Dunn,1 point
+2,5,0%,Dunn,1 point
+3,5,0%,Dunn,1 point
+4,5,0%,Dunn,1 point
+5,5,0%,Dunn,1 point
+6,5,0%,Dunn,1 point
+7,5,0%,Dunn,1 point
+8,5,0%,Dunn,1 point
+1,1,100%,Ekenasio,1 point
+2,1,100%,Ekenasio,1 point
+3,1,0%,Ekenasio,1 point
+4,1,0%,Ekenasio,1 point
+5,1,0%,Ekenasio,1 point
+6,1,0%,Ekenasio,1 point
+7,1,0%,Ekenasio,1 point
+8,1,100%,Ekenasio,1 point
+1,2,100%,Ekenasio,1 point
+2,2,100%,Ekenasio,1 point
+3,2,100%,Ekenasio,1 point
+4,2,0%,Ekenasio,1 point
+5,2,0%,Ekenasio,1 point
+6,2,0%,Ekenasio,1 point
+7,2,100%,Ekenasio,1 point
+8,2,100%,Ekenasio,1 point
+1,3,0%,Ekenasio,1 point
+2,3,100%,Ekenasio,1 point
+3,3,0%,Ekenasio,1 point
+4,3,0%,Ekenasio,1 point
+5,3,50%,Ekenasio,1 point
+6,3,0%,Ekenasio,1 point
+7,3,0%,Ekenasio,1 point
+8,3,0%,Ekenasio,1 point
+1,4,0%,Ekenasio,1 point
+2,4,0%,Ekenasio,1 point
+3,4,100%,Ekenasio,1 point
+4,4,0%,Ekenasio,1 point
+5,4,0%,Ekenasio,1 point
+6,4,0%,Ekenasio,1 point
+7,4,0%,Ekenasio,1 point
+8,4,0%,Ekenasio,1 point
+1,5,0%,Ekenasio,1 point
+2,5,0%,Ekenasio,1 point
+3,5,0%,Ekenasio,1 point
+4,5,0%,Ekenasio,1 point
+5,5,0%,Ekenasio,1 point
+6,5,0%,Ekenasio,1 point
+7,5,0%,Ekenasio,1 point
+8,5,0%,Ekenasio,1 point
+1,1,0%,Heffernan,1 point
+2,1,0%,Heffernan,1 point
+3,1,0%,Heffernan,1 point
+4,1,0%,Heffernan,1 point
+5,1,100%,Heffernan,1 point
+6,1,0%,Heffernan,1 point
+7,1,0%,Heffernan,1 point
+8,1,0%,Heffernan,1 point
+1,2,0%,Heffernan,1 point
+2,2,100%,Heffernan,1 point
+3,2,0%,Heffernan,1 point
+4,2,0%,Heffernan,1 point
+5,2,0%,Heffernan,1 point
+6,2,0%,Heffernan,1 point
+7,2,0%,Heffernan,1 point
+8,2,0%,Heffernan,1 point
+1,3,0%,Heffernan,1 point
+2,3,0%,Heffernan,1 point
+3,3,0%,Heffernan,1 point
+4,3,0%,Heffernan,1 point
+5,3,0%,Heffernan,1 point
+6,3,0%,Heffernan,1 point
+7,3,0%,Heffernan,1 point
+8,3,0%,Heffernan,1 point
+1,4,0%,Heffernan,1 point
+2,4,0%,Heffernan,1 point
+3,4,0%,Heffernan,1 point
+4,4,0%,Heffernan,1 point
+5,4,0%,Heffernan,1 point
+6,4,0%,Heffernan,1 point
+7,4,0%,Heffernan,1 point
+8,4,0%,Heffernan,1 point
+1,5,0%,Heffernan,1 point
+2,5,0%,Heffernan,1 point
+3,5,0%,Heffernan,1 point
+4,5,0%,Heffernan,1 point
+5,5,0%,Heffernan,1 point
+6,5,0%,Heffernan,1 point
+7,5,0%,Heffernan,1 point
+8,5,0%,Heffernan,1 point
+1,1,100%,Lafi'ili,1 point
+2,1,100%,Lafi'ili,1 point
+3,1,0%,Lafi'ili,1 point
+4,1,0%,Lafi'ili,1 point
+5,1,0%,Lafi'ili,1 point
+6,1,100%,Lafi'ili,1 point
+7,1,100%,Lafi'ili,1 point
+8,1,0%,Lafi'ili,1 point
+1,2,100%,Lafi'ili,1 point
+2,2,100%,Lafi'ili,1 point
+3,2,100%,Lafi'ili,1 point
+4,2,0%,Lafi'ili,1 point
+5,2,0%,Lafi'ili,1 point
+6,2,0%,Lafi'ili,1 point
+7,2,0%,Lafi'ili,1 point
+8,2,0%,Lafi'ili,1 point
+1,3,0%,Lafi'ili,1 point
+2,3,0%,Lafi'ili,1 point
+3,3,0%,Lafi'ili,1 point
+4,3,0%,Lafi'ili,1 point
+5,3,100%,Lafi'ili,1 point
+6,3,0%,Lafi'ili,1 point
+7,3,0%,Lafi'ili,1 point
+8,3,0%,Lafi'ili,1 point
+1,4,0%,Lafi'ili,1 point
+2,4,0%,Lafi'ili,1 point
+3,4,0%,Lafi'ili,1 point
+4,4,0%,Lafi'ili,1 point
+5,4,0%,Lafi'ili,1 point
+6,4,0%,Lafi'ili,1 point
+7,4,0%,Lafi'ili,1 point
+8,4,100%,Lafi'ili,1 point
+1,5,0%,Lafi'ili,1 point
+2,5,0%,Lafi'ili,1 point
+3,5,0%,Lafi'ili,1 point
+4,5,0%,Lafi'ili,1 point
+5,5,0%,Lafi'ili,1 point
+6,5,0%,Lafi'ili,1 point
+7,5,0%,Lafi'ili,1 point
+8,5,0%,Lafi'ili,1 point
+1,1,0%,Malesala,1 point
+2,1,0%,Malesala,1 point
+3,1,0%,Malesala,1 point
+4,1,0%,Malesala,1 point
+5,1,0%,Malesala,1 point
+6,1,0%,Malesala,1 point
+7,1,0%,Malesala,1 point
+8,1,0%,Malesala,1 point
+1,2,0%,Malesala,1 point
+2,2,0%,Malesala,1 point
+3,2,0%,Malesala,1 point
+4,2,0%,Malesala,1 point
+5,2,0%,Malesala,1 point
+6,2,0%,Malesala,1 point
+7,2,0%,Malesala,1 point
+8,2,0%,Malesala,1 point
+1,3,0%,Malesala,1 point
+2,3,0%,Malesala,1 point
+3,3,0%,Malesala,1 point
+4,3,0%,Malesala,1 point
+5,3,0%,Malesala,1 point
+6,3,0%,Malesala,1 point
+7,3,0%,Malesala,1 point
+8,3,0%,Malesala,1 point
+1,4,0%,Malesala,1 point
+2,4,0%,Malesala,1 point
+3,4,0%,Malesala,1 point
+4,4,0%,Malesala,1 point
+5,4,0%,Malesala,1 point
+6,4,0%,Malesala,1 point
+7,4,0%,Malesala,1 point
+8,4,0%,Malesala,1 point
+1,5,0%,Malesala,1 point
+2,5,0%,Malesala,1 point
+3,5,0%,Malesala,1 point
+4,5,0%,Malesala,1 point
+5,5,0%,Malesala,1 point
+6,5,0%,Malesala,1 point
+7,5,0%,Malesala,1 point
+8,5,0%,Malesala,1 point
+1,1,0%,Pelasio,1 point
+2,1,0%,Pelasio,1 point
+3,1,0%,Pelasio,1 point
+4,1,0%,Pelasio,1 point
+5,1,0%,Pelasio,1 point
+6,1,0%,Pelasio,1 point
+7,1,0%,Pelasio,1 point
+8,1,0%,Pelasio,1 point
+1,2,0%,Pelasio,1 point
+2,2,100%,Pelasio,1 point
+3,2,0%,Pelasio,1 point
+4,2,0%,Pelasio,1 point
+5,2,0%,Pelasio,1 point
+6,2,0%,Pelasio,1 point
+7,2,100%,Pelasio,1 point
+8,2,0%,Pelasio,1 point
+1,3,0%,Pelasio,1 point
+2,3,0%,Pelasio,1 point
+3,3,100%,Pelasio,1 point
+4,3,100%,Pelasio,1 point
+5,3,0%,Pelasio,1 point
+6,3,0%,Pelasio,1 point
+7,3,0%,Pelasio,1 point
+8,3,0%,Pelasio,1 point
+1,4,0%,Pelasio,1 point
+2,4,0%,Pelasio,1 point
+3,4,100%,Pelasio,1 point
+4,4,40%,Pelasio,1 point
+5,4,33%,Pelasio,1 point
+6,4,0%,Pelasio,1 point
+7,4,0%,Pelasio,1 point
+8,4,0%,Pelasio,1 point
+1,5,0%,Pelasio,1 point
+2,5,0%,Pelasio,1 point
+3,5,0%,Pelasio,1 point
+4,5,0%,Pelasio,1 point
+5,5,0%,Pelasio,1 point
+6,5,0%,Pelasio,1 point
+7,5,0%,Pelasio,1 point
+8,5,0%,Pelasio,1 point
+1,1,100%,Salmon,1 point
+2,1,0%,Salmon,1 point
+3,1,100%,Salmon,1 point
+4,1,100%,Salmon,1 point
+5,1,100%,Salmon,1 point
+6,1,100%,Salmon,1 point
+7,1,100%,Salmon,1 point
+8,1,83%,Salmon,1 point
+1,2,100%,Salmon,1 point
+2,2,100%,Salmon,1 point
+3,2,100%,Salmon,1 point
+4,2,0%,Salmon,1 point
+5,2,100%,Salmon,1 point
+6,2,100%,Salmon,1 point
+7,2,100%,Salmon,1 point
+8,2,100%,Salmon,1 point
+1,3,0%,Salmon,1 point
+2,3,0%,Salmon,1 point
+3,3,0%,Salmon,1 point
+4,3,0%,Salmon,1 point
+5,3,100%,Salmon,1 point
+6,3,0%,Salmon,1 point
+7,3,0%,Salmon,1 point
+8,3,0%,Salmon,1 point
+1,4,0%,Salmon,1 point
+2,4,0%,Salmon,1 point
+3,4,0%,Salmon,1 point
+4,4,0%,Salmon,1 point
+5,4,0%,Salmon,1 point
+6,4,0%,Salmon,1 point
+7,4,0%,Salmon,1 point
+8,4,0%,Salmon,1 point
+1,5,0%,Salmon,1 point
+2,5,0%,Salmon,1 point
+3,5,0%,Salmon,1 point
+4,5,0%,Salmon,1 point
+5,5,0%,Salmon,1 point
+6,5,0%,Salmon,1 point
+7,5,0%,Salmon,1 point
+8,5,0%,Salmon,1 point
+1,1,0%,Schwalger,1 point
+2,1,0%,Schwalger,1 point
+3,1,0%,Schwalger,1 point
+4,1,100%,Schwalger,1 point
+5,1,0%,Schwalger,1 point
+6,1,0%,Schwalger,1 point
+7,1,100%,Schwalger,1 point
+8,1,100%,Schwalger,1 point
+1,2,0%,Schwalger,1 point
+2,2,0%,Schwalger,1 point
+3,2,100%,Schwalger,1 point
+4,2,0%,Schwalger,1 point
+5,2,0%,Schwalger,1 point
+6,2,100%,Schwalger,1 point
+7,2,0%,Schwalger,1 point
+8,2,0%,Schwalger,1 point
+1,3,0%,Schwalger,1 point
+2,3,100%,Schwalger,1 point
+3,3,0%,Schwalger,1 point
+4,3,0%,Schwalger,1 point
+5,3,0%,Schwalger,1 point
+6,3,0%,Schwalger,1 point
+7,3,0%,Schwalger,1 point
+8,3,0%,Schwalger,1 point
+1,4,0%,Schwalger,1 point
+2,4,0%,Schwalger,1 point
+3,4,0%,Schwalger,1 point
+4,4,0%,Schwalger,1 point
+5,4,0%,Schwalger,1 point
+6,4,100%,Schwalger,1 point
+7,4,0%,Schwalger,1 point
+8,4,0%,Schwalger,1 point
+1,5,0%,Schwalger,1 point
+2,5,0%,Schwalger,1 point
+3,5,0%,Schwalger,1 point
+4,5,0%,Schwalger,1 point
+5,5,0%,Schwalger,1 point
+6,5,0%,Schwalger,1 point
+7,5,0%,Schwalger,1 point
+8,5,0%,Schwalger,1 point
+1,1,0%,Selby-Rickett,1 point
+2,1,100%,Selby-Rickett,1 point
+3,1,0%,Selby-Rickett,1 point
+4,1,0%,Selby-Rickett,1 point
+5,1,0%,Selby-Rickett,1 point
+6,1,0%,Selby-Rickett,1 point
+7,1,100%,Selby-Rickett,1 point
+8,1,100%,Selby-Rickett,1 point
+1,2,0%,Selby-Rickett,1 point
+2,2,0%,Selby-Rickett,1 point
+3,2,0%,Selby-Rickett,1 point
+4,2,0%,Selby-Rickett,1 point
+5,2,100%,Selby-Rickett,1 point
+6,2,0%,Selby-Rickett,1 point
+7,2,0%,Selby-Rickett,1 point
+8,2,100%,Selby-Rickett,1 point
+1,3,100%,Selby-Rickett,1 point
+2,3,0%,Selby-Rickett,1 point
+3,3,0%,Selby-Rickett,1 point
+4,3,100%,Selby-Rickett,1 point
+5,3,0%,Selby-Rickett,1 point
+6,3,50%,Selby-Rickett,1 point
+7,3,100%,Selby-Rickett,1 point
+8,3,100%,Selby-Rickett,1 point
+1,4,0%,Selby-Rickett,1 point
+2,4,0%,Selby-Rickett,1 point
+3,4,0%,Selby-Rickett,1 point
+4,4,0%,Selby-Rickett,1 point
+5,4,0%,Selby-Rickett,1 point
+6,4,100%,Selby-Rickett,1 point
+7,4,0%,Selby-Rickett,1 point
+8,4,100%,Selby-Rickett,1 point
+1,5,0%,Selby-Rickett,1 point
+2,5,0%,Selby-Rickett,1 point
+3,5,0%,Selby-Rickett,1 point
+4,5,0%,Selby-Rickett,1 point
+5,5,0%,Selby-Rickett,1 point
+6,5,0%,Selby-Rickett,1 point
+7,5,0%,Selby-Rickett,1 point
+8,5,0%,Selby-Rickett,1 point
+1,1,0%,Southby,1 point
+2,1,0%,Southby,1 point
+3,1,0%,Southby,1 point
+4,1,0%,Southby,1 point
+5,1,0%,Southby,1 point
+6,1,0%,Southby,1 point
+7,1,100%,Southby,1 point
+8,1,0%,Southby,1 point
+1,2,0%,Southby,1 point
+2,2,0%,Southby,1 point
+3,2,0%,Southby,1 point
+4,2,0%,Southby,1 point
+5,2,0%,Southby,1 point
+6,2,0%,Southby,1 point
+7,2,0%,Southby,1 point
+8,2,0%,Southby,1 point
+1,3,0%,Southby,1 point
+2,3,100%,Southby,1 point
+3,3,0%,Southby,1 point
+4,3,100%,Southby,1 point
+5,3,0%,Southby,1 point
+6,3,0%,Southby,1 point
+7,3,0%,Southby,1 point
+8,3,0%,Southby,1 point
+1,4,0%,Southby,1 point
+2,4,0%,Southby,1 point
+3,4,0%,Southby,1 point
+4,4,0%,Southby,1 point
+5,4,0%,Southby,1 point
+6,4,50%,Southby,1 point
+7,4,0%,Southby,1 point
+8,4,0%,Southby,1 point
+1,5,0%,Southby,1 point
+2,5,0%,Southby,1 point
+3,5,0%,Southby,1 point
+4,5,0%,Southby,1 point
+5,5,0%,Southby,1 point
+6,5,0%,Southby,1 point
+7,5,0%,Southby,1 point
+8,5,0%,Southby,1 point
+1,1,100%,Taylor,1 point
+2,1,50%,Taylor,1 point
+3,1,0%,Taylor,1 point
+4,1,0%,Taylor,1 point
+5,1,100%,Taylor,1 point
+6,1,100%,Taylor,1 point
+7,1,0%,Taylor,1 point
+8,1,100%,Taylor,1 point
+1,2,0%,Taylor,1 point
+2,2,100%,Taylor,1 point
+3,2,0%,Taylor,1 point
+4,2,0%,Taylor,1 point
+5,2,0%,Taylor,1 point
+6,2,0%,Taylor,1 point
+7,2,0%,Taylor,1 point
+8,2,0%,Taylor,1 point
+1,3,0%,Taylor,1 point
+2,3,0%,Taylor,1 point
+3,3,0%,Taylor,1 point
+4,3,0%,Taylor,1 point
+5,3,0%,Taylor,1 point
+6,3,0%,Taylor,1 point
+7,3,0%,Taylor,1 point
+8,3,0%,Taylor,1 point
+1,4,0%,Taylor,1 point
+2,4,0%,Taylor,1 point
+3,4,0%,Taylor,1 point
+4,4,0%,Taylor,1 point
+5,4,0%,Taylor,1 point
+6,4,0%,Taylor,1 point
+7,4,0%,Taylor,1 point
+8,4,0%,Taylor,1 point
+1,5,0%,Taylor,1 point
+2,5,0%,Taylor,1 point
+3,5,0%,Taylor,1 point
+4,5,0%,Taylor,1 point
+5,5,0%,Taylor,1 point
+6,5,0%,Taylor,1 point
+7,5,0%,Taylor,1 point
+8,5,0%,Taylor,1 point
+1,1,50%,Temu,1 point
+2,1,0%,Temu,1 point
+3,1,100%,Temu,1 point
+4,1,0%,Temu,1 point
+5,1,100%,Temu,1 point
+6,1,100%,Temu,1 point
+7,1,0%,Temu,1 point
+8,1,86%,Temu,1 point
+1,2,0%,Temu,1 point
+2,2,0%,Temu,1 point
+3,2,0%,Temu,1 point
+4,2,100%,Temu,1 point
+5,2,0%,Temu,1 point
+6,2,0%,Temu,1 point
+7,2,0%,Temu,1 point
+8,2,0%,Temu,1 point
+1,3,0%,Temu,1 point
+2,3,0%,Temu,1 point
+3,3,0%,Temu,1 point
+4,3,0%,Temu,1 point
+5,3,0%,Temu,1 point
+6,3,0%,Temu,1 point
+7,3,0%,Temu,1 point
+8,3,0%,Temu,1 point
+1,4,0%,Temu,1 point
+2,4,0%,Temu,1 point
+3,4,0%,Temu,1 point
+4,4,0%,Temu,1 point
+5,4,0%,Temu,1 point
+6,4,0%,Temu,1 point
+7,4,100%,Temu,1 point
+8,4,0%,Temu,1 point
+1,5,0%,Temu,1 point
+2,5,0%,Temu,1 point
+3,5,0%,Temu,1 point
+4,5,0%,Temu,1 point
+5,5,0%,Temu,1 point
+6,5,0%,Temu,1 point
+7,5,0%,Temu,1 point
+8,5,0%,Temu,1 point
+1,1,0%,Toeava,1 point
+2,1,0%,Toeava,1 point
+3,1,0%,Toeava,1 point
+4,1,0%,Toeava,1 point
+5,1,0%,Toeava,1 point
+6,1,0%,Toeava,1 point
+7,1,0%,Toeava,1 point
+8,1,0%,Toeava,1 point
+1,2,0%,Toeava,1 point
+2,2,0%,Toeava,1 point
+3,2,0%,Toeava,1 point
+4,2,0%,Toeava,1 point
+5,2,0%,Toeava,1 point
+6,2,0%,Toeava,1 point
+7,2,0%,Toeava,1 point
+8,2,0%,Toeava,1 point
+1,3,0%,Toeava,1 point
+2,3,0%,Toeava,1 point
+3,3,0%,Toeava,1 point
+4,3,0%,Toeava,1 point
+5,3,0%,Toeava,1 point
+6,3,0%,Toeava,1 point
+7,3,0%,Toeava,1 point
+8,3,0%,Toeava,1 point
+1,4,0%,Toeava,1 point
+2,4,0%,Toeava,1 point
+3,4,0%,Toeava,1 point
+4,4,0%,Toeava,1 point
+5,4,0%,Toeava,1 point
+6,4,0%,Toeava,1 point
+7,4,0%,Toeava,1 point
+8,4,0%,Toeava,1 point
+1,5,0%,Toeava,1 point
+2,5,0%,Toeava,1 point
+3,5,0%,Toeava,1 point
+4,5,0%,Toeava,1 point
+5,5,0%,Toeava,1 point
+6,5,0%,Toeava,1 point
+7,5,0%,Toeava,1 point
+8,5,0%,Toeava,1 point
+1,1,100%,Tui,1 point
+2,1,100%,Tui,1 point
+3,1,100%,Tui,1 point
+4,1,100%,Tui,1 point
+5,1,0%,Tui,1 point
+6,1,100%,Tui,1 point
+7,1,100%,Tui,1 point
+8,1,67%,Tui,1 point
+1,2,100%,Tui,1 point
+2,2,0%,Tui,1 point
+3,2,0%,Tui,1 point
+4,2,0%,Tui,1 point
+5,2,0%,Tui,1 point
+6,2,0%,Tui,1 point
+7,2,100%,Tui,1 point
+8,2,0%,Tui,1 point
+1,3,0%,Tui,1 point
+2,3,0%,Tui,1 point
+3,3,0%,Tui,1 point
+4,3,0%,Tui,1 point
+5,3,0%,Tui,1 point
+6,3,0%,Tui,1 point
+7,3,0%,Tui,1 point
+8,3,0%,Tui,1 point
+1,4,0%,Tui,1 point
+2,4,0%,Tui,1 point
+3,4,0%,Tui,1 point
+4,4,0%,Tui,1 point
+5,4,0%,Tui,1 point
+6,4,0%,Tui,1 point
+7,4,100%,Tui,1 point
+8,4,0%,Tui,1 point
+1,5,0%,Tui,1 point
+2,5,0%,Tui,1 point
+3,5,0%,Tui,1 point
+4,5,0%,Tui,1 point
+5,5,0%,Tui,1 point
+6,5,100%,Tui,1 point
+7,5,0%,Tui,1 point
+8,5,0%,Tui,1 point
+1,1,100%,Vui,1 point
+2,1,0%,Vui,1 point
+3,1,33%,Vui,1 point
+4,1,0%,Vui,1 point
+5,1,0%,Vui,1 point
+6,1,0%,Vui,1 point
+7,1,50%,Vui,1 point
+8,1,0%,Vui,1 point
+1,2,100%,Vui,1 point
+2,2,0%,Vui,1 point
+3,2,100%,Vui,1 point
+4,2,0%,Vui,1 point
+5,2,0%,Vui,1 point
+6,2,100%,Vui,1 point
+7,2,0%,Vui,1 point
+8,2,0%,Vui,1 point
+1,3,100%,Vui,1 point
+2,3,50%,Vui,1 point
+3,3,0%,Vui,1 point
+4,3,0%,Vui,1 point
+5,3,0%,Vui,1 point
+6,3,100%,Vui,1 point
+7,3,0%,Vui,1 point
+8,3,67%,Vui,1 point
+1,4,0%,Vui,1 point
+2,4,0%,Vui,1 point
+3,4,0%,Vui,1 point
+4,4,0%,Vui,1 point
+5,4,0%,Vui,1 point
+6,4,0%,Vui,1 point
+7,4,100%,Vui,1 point
+8,4,0%,Vui,1 point
+1,5,0%,Vui,1 point
+2,5,0%,Vui,1 point
+3,5,0%,Vui,1 point
+4,5,0%,Vui,1 point
+5,5,0%,Vui,1 point
+6,5,0%,Vui,1 point
+7,5,0%,Vui,1 point
+8,5,0%,Vui,1 point
+1,1,100%,Wallam,1 point
+2,1,100%,Wallam,1 point
+3,1,92%,Wallam,1 point
+4,1,75%,Wallam,1 point
+5,1,83%,Wallam,1 point
+6,1,100%,Wallam,1 point
+7,1,100%,Wallam,1 point
+8,1,75%,Wallam,1 point
+1,2,100%,Wallam,1 point
+2,2,100%,Wallam,1 point
+3,2,0%,Wallam,1 point
+4,2,0%,Wallam,1 point
+5,2,0%,Wallam,1 point
+6,2,67%,Wallam,1 point
+7,2,100%,Wallam,1 point
+8,2,100%,Wallam,1 point
+1,3,0%,Wallam,1 point
+2,3,0%,Wallam,1 point
+3,3,0%,Wallam,1 point
+4,3,0%,Wallam,1 point
+5,3,0%,Wallam,1 point
+6,3,0%,Wallam,1 point
+7,3,0%,Wallam,1 point
+8,3,0%,Wallam,1 point
+1,4,0%,Wallam,1 point
+2,4,0%,Wallam,1 point
+3,4,0%,Wallam,1 point
+4,4,100%,Wallam,1 point
+5,4,0%,Wallam,1 point
+6,4,0%,Wallam,1 point
+7,4,0%,Wallam,1 point
+8,4,0%,Wallam,1 point
+1,5,0%,Wallam,1 point
+2,5,0%,Wallam,1 point
+3,5,0%,Wallam,1 point
+4,5,0%,Wallam,1 point
+5,5,0%,Wallam,1 point
+6,5,0%,Wallam,1 point
+7,5,0%,Wallam,1 point
+8,5,0%,Wallam,1 point
+1,1,100%,Walmsley,1 point
+2,1,100%,Walmsley,1 point
+3,1,100%,Walmsley,1 point
+4,1,100%,Walmsley,1 point
+5,1,100%,Walmsley,1 point
+6,1,100%,Walmsley,1 point
+7,1,75%,Walmsley,1 point
+8,1,100%,Walmsley,1 point
+1,2,100%,Walmsley,1 point
+2,2,0%,Walmsley,1 point
+3,2,100%,Walmsley,1 point
+4,2,0%,Walmsley,1 point
+5,2,0%,Walmsley,1 point
+6,2,0%,Walmsley,1 point
+7,2,100%,Walmsley,1 point
+8,2,0%,Walmsley,1 point
+1,3,0%,Walmsley,1 point
+2,3,0%,Walmsley,1 point
+3,3,0%,Walmsley,1 point
+4,3,0%,Walmsley,1 point
+5,3,0%,Walmsley,1 point
+6,3,0%,Walmsley,1 point
+7,3,0%,Walmsley,1 point
+8,3,0%,Walmsley,1 point
+1,4,0%,Walmsley,1 point
+2,4,0%,Walmsley,1 point
+3,4,0%,Walmsley,1 point
+4,4,0%,Walmsley,1 point
+5,4,0%,Walmsley,1 point
+6,4,0%,Walmsley,1 point
+7,4,0%,Walmsley,1 point
+8,4,0%,Walmsley,1 point
+1,5,0%,Walmsley,1 point
+2,5,0%,Walmsley,1 point
+3,5,0%,Walmsley,1 point
+4,5,0%,Walmsley,1 point
+5,5,0%,Walmsley,1 point
+6,5,0%,Walmsley,1 point
+7,5,0%,Walmsley,1 point
+8,5,0%,Walmsley,1 point
+1,1,0%,Williams,1 point
+2,1,0%,Williams,1 point
+3,1,0%,Williams,1 point
+4,1,0%,Williams,1 point
+5,1,0%,Williams,1 point
+6,1,0%,Williams,1 point
+7,1,0%,Williams,1 point
+8,1,0%,Williams,1 point
+1,2,0%,Williams,1 point
+2,2,0%,Williams,1 point
+3,2,0%,Williams,1 point
+4,2,0%,Williams,1 point
+5,2,0%,Williams,1 point
+6,2,0%,Williams,1 point
+7,2,0%,Williams,1 point
+8,2,0%,Williams,1 point
+1,3,0%,Williams,1 point
+2,3,0%,Williams,1 point
+3,3,0%,Williams,1 point
+4,3,0%,Williams,1 point
+5,3,0%,Williams,1 point
+6,3,0%,Williams,1 point
+7,3,0%,Williams,1 point
+8,3,0%,Williams,1 point
+1,4,0%,Williams,1 point
+2,4,0%,Williams,1 point
+3,4,0%,Williams,1 point
+4,4,0%,Williams,1 point
+5,4,0%,Williams,1 point
+6,4,0%,Williams,1 point
+7,4,0%,Williams,1 point
+8,4,0%,Williams,1 point
+1,5,0%,Williams,1 point
+2,5,0%,Williams,1 point
+3,5,0%,Williams,1 point
+4,5,0%,Williams,1 point
+5,5,0%,Williams,1 point
+6,5,0%,Williams,1 point
+7,5,0%,Williams,1 point
+8,5,0%,Williams,1 point
+1,1,0%,Bird,2 point
+2,1,100%,Bird,2 point
+3,1,100%,Bird,2 point
+4,1,100%,Bird,2 point
+5,1,0%,Bird,2 point
+6,1,0%,Bird,2 point
+7,1,100%,Bird,2 point
+8,1,0%,Bird,2 point
+1,2,0%,Bird,2 point
+2,2,0%,Bird,2 point
+3,2,0%,Bird,2 point
+4,2,0%,Bird,2 point
+5,2,0%,Bird,2 point
+6,2,0%,Bird,2 point
+7,2,100%,Bird,2 point
+8,2,0%,Bird,2 point
+1,3,0%,Bird,2 point
+2,3,0%,Bird,2 point
+3,3,0%,Bird,2 point
+4,3,0%,Bird,2 point
+5,3,0%,Bird,2 point
+6,3,0%,Bird,2 point
+7,3,0%,Bird,2 point
+8,3,0%,Bird,2 point
+1,4,0%,Bird,2 point
+2,4,0%,Bird,2 point
+3,4,0%,Bird,2 point
+4,4,0%,Bird,2 point
+5,4,0%,Bird,2 point
+6,4,0%,Bird,2 point
+7,4,0%,Bird,2 point
+8,4,0%,Bird,2 point
+1,5,0%,Bird,2 point
+2,5,0%,Bird,2 point
+3,5,0%,Bird,2 point
+4,5,0%,Bird,2 point
+5,5,0%,Bird,2 point
+6,5,0%,Bird,2 point
+7,5,0%,Bird,2 point
+8,5,0%,Bird,2 point
+1,1,0%,Day,2 point
+2,1,0%,Day,2 point
+3,1,0%,Day,2 point
+4,1,0%,Day,2 point
+5,1,0%,Day,2 point
+6,1,0%,Day,2 point
+7,1,0%,Day,2 point
+8,1,0%,Day,2 point
+1,2,100%,Day,2 point
+2,2,100%,Day,2 point
+3,2,0%,Day,2 point
+4,2,0%,Day,2 point
+5,2,0%,Day,2 point
+6,2,0%,Day,2 point
+7,2,0%,Day,2 point
+8,2,0%,Day,2 point
+1,3,0%,Day,2 point
+2,3,0%,Day,2 point
+3,3,0%,Day,2 point
+4,3,0%,Day,2 point
+5,3,0%,Day,2 point
+6,3,100%,Day,2 point
+7,3,0%,Day,2 point
+8,3,0%,Day,2 point
+1,4,0%,Day,2 point
+2,4,0%,Day,2 point
+3,4,0%,Day,2 point
+4,4,0%,Day,2 point
+5,4,0%,Day,2 point
+6,4,0%,Day,2 point
+7,4,0%,Day,2 point
+8,4,0%,Day,2 point
+1,5,0%,Day,2 point
+2,5,0%,Day,2 point
+3,5,0%,Day,2 point
+4,5,0%,Day,2 point
+5,5,0%,Day,2 point
+6,5,0%,Day,2 point
+7,5,0%,Day,2 point
+8,5,0%,Day,2 point
+1,1,0%,Dijkstra,2 point
+2,1,0%,Dijkstra,2 point
+3,1,0%,Dijkstra,2 point
+4,1,0%,Dijkstra,2 point
+5,1,0%,Dijkstra,2 point
+6,1,0%,Dijkstra,2 point
+7,1,0%,Dijkstra,2 point
+8,1,0%,Dijkstra,2 point
+1,2,0%,Dijkstra,2 point
+2,2,0%,Dijkstra,2 point
+3,2,0%,Dijkstra,2 point
+4,2,0%,Dijkstra,2 point
+5,2,0%,Dijkstra,2 point
+6,2,0%,Dijkstra,2 point
+7,2,0%,Dijkstra,2 point
+8,2,0%,Dijkstra,2 point
+1,3,0%,Dijkstra,2 point
+2,3,0%,Dijkstra,2 point
+3,3,0%,Dijkstra,2 point
+4,3,0%,Dijkstra,2 point
+5,3,0%,Dijkstra,2 point
+6,3,0%,Dijkstra,2 point
+7,3,0%,Dijkstra,2 point
+8,3,0%,Dijkstra,2 point
+1,4,0%,Dijkstra,2 point
+2,4,0%,Dijkstra,2 point
+3,4,0%,Dijkstra,2 point
+4,4,0%,Dijkstra,2 point
+5,4,0%,Dijkstra,2 point
+6,4,0%,Dijkstra,2 point
+7,4,0%,Dijkstra,2 point
+8,4,0%,Dijkstra,2 point
+1,5,0%,Dijkstra,2 point
+2,5,0%,Dijkstra,2 point
+3,5,0%,Dijkstra,2 point
+4,5,100%,Dijkstra,2 point
+5,5,0%,Dijkstra,2 point
+6,5,0%,Dijkstra,2 point
+7,5,0%,Dijkstra,2 point
+8,5,0%,Dijkstra,2 point
+1,1,0%,Dunn,2 point
+2,1,0%,Dunn,2 point
+3,1,0%,Dunn,2 point
+4,1,0%,Dunn,2 point
+5,1,0%,Dunn,2 point
+6,1,0%,Dunn,2 point
+7,1,0%,Dunn,2 point
+8,1,100%,Dunn,2 point
+1,2,0%,Dunn,2 point
+2,2,0%,Dunn,2 point
+3,2,0%,Dunn,2 point
+4,2,0%,Dunn,2 point
+5,2,0%,Dunn,2 point
+6,2,0%,Dunn,2 point
+7,2,0%,Dunn,2 point
+8,2,0%,Dunn,2 point
+1,3,0%,Dunn,2 point
+2,3,0%,Dunn,2 point
+3,3,0%,Dunn,2 point
+4,3,0%,Dunn,2 point
+5,3,0%,Dunn,2 point
+6,3,0%,Dunn,2 point
+7,3,0%,Dunn,2 point
+8,3,0%,Dunn,2 point
+1,4,0%,Dunn,2 point
+2,4,0%,Dunn,2 point
+3,4,0%,Dunn,2 point
+4,4,0%,Dunn,2 point
+5,4,0%,Dunn,2 point
+6,4,0%,Dunn,2 point
+7,4,0%,Dunn,2 point
+8,4,0%,Dunn,2 point
+1,5,0%,Dunn,2 point
+2,5,0%,Dunn,2 point
+3,5,0%,Dunn,2 point
+4,5,0%,Dunn,2 point
+5,5,0%,Dunn,2 point
+6,5,0%,Dunn,2 point
+7,5,100%,Dunn,2 point
+8,5,100%,Dunn,2 point
+1,1,0%,Ekenasio,2 point
+2,1,100%,Ekenasio,2 point
+3,1,0%,Ekenasio,2 point
+4,1,0%,Ekenasio,2 point
+5,1,0%,Ekenasio,2 point
+6,1,0%,Ekenasio,2 point
+7,1,0%,Ekenasio,2 point
+8,1,0%,Ekenasio,2 point
+1,2,0%,Ekenasio,2 point
+2,2,0%,Ekenasio,2 point
+3,2,0%,Ekenasio,2 point
+4,2,0%,Ekenasio,2 point
+5,2,0%,Ekenasio,2 point
+6,2,0%,Ekenasio,2 point
+7,2,0%,Ekenasio,2 point
+8,2,0%,Ekenasio,2 point
+1,3,0%,Ekenasio,2 point
+2,3,0%,Ekenasio,2 point
+3,3,0%,Ekenasio,2 point
+4,3,0%,Ekenasio,2 point
+5,3,0%,Ekenasio,2 point
+6,3,0%,Ekenasio,2 point
+7,3,0%,Ekenasio,2 point
+8,3,0%,Ekenasio,2 point
+1,4,0%,Ekenasio,2 point
+2,4,0%,Ekenasio,2 point
+3,4,0%,Ekenasio,2 point
+4,4,0%,Ekenasio,2 point
+5,4,0%,Ekenasio,2 point
+6,4,0%,Ekenasio,2 point
+7,4,0%,Ekenasio,2 point
+8,4,0%,Ekenasio,2 point
+1,5,0%,Ekenasio,2 point
+2,5,0%,Ekenasio,2 point
+3,5,25%,Ekenasio,2 point
+4,5,0%,Ekenasio,2 point
+5,5,100%,Ekenasio,2 point
+6,5,67%,Ekenasio,2 point
+7,5,0%,Ekenasio,2 point
+8,5,0%,Ekenasio,2 point
+1,1,0%,Heffernan,2 point
+2,1,0%,Heffernan,2 point
+3,1,0%,Heffernan,2 point
+4,1,0%,Heffernan,2 point
+5,1,0%,Heffernan,2 point
+6,1,0%,Heffernan,2 point
+7,1,0%,Heffernan,2 point
+8,1,0%,Heffernan,2 point
+1,2,0%,Heffernan,2 point
+2,2,0%,Heffernan,2 point
+3,2,0%,Heffernan,2 point
+4,2,0%,Heffernan,2 point
+5,2,0%,Heffernan,2 point
+6,2,0%,Heffernan,2 point
+7,2,0%,Heffernan,2 point
+8,2,0%,Heffernan,2 point
+1,3,0%,Heffernan,2 point
+2,3,0%,Heffernan,2 point
+3,3,0%,Heffernan,2 point
+4,3,0%,Heffernan,2 point
+5,3,0%,Heffernan,2 point
+6,3,0%,Heffernan,2 point
+7,3,0%,Heffernan,2 point
+8,3,0%,Heffernan,2 point
+1,4,0%,Heffernan,2 point
+2,4,0%,Heffernan,2 point
+3,4,0%,Heffernan,2 point
+4,4,0%,Heffernan,2 point
+5,4,0%,Heffernan,2 point
+6,4,0%,Heffernan,2 point
+7,4,0%,Heffernan,2 point
+8,4,0%,Heffernan,2 point
+1,5,50%,Heffernan,2 point
+2,5,0%,Heffernan,2 point
+3,5,0%,Heffernan,2 point
+4,5,0%,Heffernan,2 point
+5,5,0%,Heffernan,2 point
+6,5,0%,Heffernan,2 point
+7,5,100%,Heffernan,2 point
+8,5,0%,Heffernan,2 point
+1,1,0%,Lafi'ili,2 point
+2,1,0%,Lafi'ili,2 point
+3,1,0%,Lafi'ili,2 point
+4,1,0%,Lafi'ili,2 point
+5,1,50%,Lafi'ili,2 point
+6,1,0%,Lafi'ili,2 point
+7,1,0%,Lafi'ili,2 point
+8,1,0%,Lafi'ili,2 point
+1,2,100%,Lafi'ili,2 point
+2,2,0%,Lafi'ili,2 point
+3,2,0%,Lafi'ili,2 point
+4,2,0%,Lafi'ili,2 point
+5,2,0%,Lafi'ili,2 point
+6,2,0%,Lafi'ili,2 point
+7,2,0%,Lafi'ili,2 point
+8,2,0%,Lafi'ili,2 point
+1,3,0%,Lafi'ili,2 point
+2,3,0%,Lafi'ili,2 point
+3,3,0%,Lafi'ili,2 point
+4,3,0%,Lafi'ili,2 point
+5,3,0%,Lafi'ili,2 point
+6,3,0%,Lafi'ili,2 point
+7,3,0%,Lafi'ili,2 point
+8,3,0%,Lafi'ili,2 point
+1,4,100%,Lafi'ili,2 point
+2,4,0%,Lafi'ili,2 point
+3,4,0%,Lafi'ili,2 point
+4,4,0%,Lafi'ili,2 point
+5,4,0%,Lafi'ili,2 point
+6,4,0%,Lafi'ili,2 point
+7,4,0%,Lafi'ili,2 point
+8,4,0%,Lafi'ili,2 point
+1,5,50%,Lafi'ili,2 point
+2,5,0%,Lafi'ili,2 point
+3,5,0%,Lafi'ili,2 point
+4,5,0%,Lafi'ili,2 point
+5,5,0%,Lafi'ili,2 point
+6,5,100%,Lafi'ili,2 point
+7,5,0%,Lafi'ili,2 point
+8,5,0%,Lafi'ili,2 point
+1,1,0%,Malesala,2 point
+2,1,0%,Malesala,2 point
+3,1,0%,Malesala,2 point
+4,1,0%,Malesala,2 point
+5,1,0%,Malesala,2 point
+6,1,0%,Malesala,2 point
+7,1,0%,Malesala,2 point
+8,1,100%,Malesala,2 point
+1,2,0%,Malesala,2 point
+2,2,0%,Malesala,2 point
+3,2,0%,Malesala,2 point
+4,2,0%,Malesala,2 point
+5,2,0%,Malesala,2 point
+6,2,0%,Malesala,2 point
+7,2,0%,Malesala,2 point
+8,2,0%,Malesala,2 point
+1,3,0%,Malesala,2 point
+2,3,0%,Malesala,2 point
+3,3,0%,Malesala,2 point
+4,3,0%,Malesala,2 point
+5,3,0%,Malesala,2 point
+6,3,0%,Malesala,2 point
+7,3,0%,Malesala,2 point
+8,3,0%,Malesala,2 point
+1,4,0%,Malesala,2 point
+2,4,0%,Malesala,2 point
+3,4,0%,Malesala,2 point
+4,4,0%,Malesala,2 point
+5,4,0%,Malesala,2 point
+6,4,0%,Malesala,2 point
+7,4,0%,Malesala,2 point
+8,4,0%,Malesala,2 point
+1,5,0%,Malesala,2 point
+2,5,0%,Malesala,2 point
+3,5,0%,Malesala,2 point
+4,5,0%,Malesala,2 point
+5,5,0%,Malesala,2 point
+6,5,0%,Malesala,2 point
+7,5,0%,Malesala,2 point
+8,5,0%,Malesala,2 point
+1,1,0%,Pelasio,2 point
+2,1,0%,Pelasio,2 point
+3,1,0%,Pelasio,2 point
+4,1,0%,Pelasio,2 point
+5,1,0%,Pelasio,2 point
+6,1,0%,Pelasio,2 point
+7,1,0%,Pelasio,2 point
+8,1,0%,Pelasio,2 point
+1,2,0%,Pelasio,2 point
+2,2,0%,Pelasio,2 point
+3,2,0%,Pelasio,2 point
+4,2,0%,Pelasio,2 point
+5,2,0%,Pelasio,2 point
+6,2,0%,Pelasio,2 point
+7,2,0%,Pelasio,2 point
+8,2,0%,Pelasio,2 point
+1,3,0%,Pelasio,2 point
+2,3,0%,Pelasio,2 point
+3,3,0%,Pelasio,2 point
+4,3,0%,Pelasio,2 point
+5,3,0%,Pelasio,2 point
+6,3,0%,Pelasio,2 point
+7,3,0%,Pelasio,2 point
+8,3,0%,Pelasio,2 point
+1,4,0%,Pelasio,2 point
+2,4,0%,Pelasio,2 point
+3,4,0%,Pelasio,2 point
+4,4,0%,Pelasio,2 point
+5,4,0%,Pelasio,2 point
+6,4,100%,Pelasio,2 point
+7,4,0%,Pelasio,2 point
+8,4,0%,Pelasio,2 point
+1,5,0%,Pelasio,2 point
+2,5,0%,Pelasio,2 point
+3,5,100%,Pelasio,2 point
+4,5,100%,Pelasio,2 point
+5,5,50%,Pelasio,2 point
+6,5,75%,Pelasio,2 point
+7,5,33%,Pelasio,2 point
+8,5,0%,Pelasio,2 point
+1,1,0%,Salmon,2 point
+2,1,100%,Salmon,2 point
+3,1,0%,Salmon,2 point
+4,1,0%,Salmon,2 point
+5,1,0%,Salmon,2 point
+6,1,0%,Salmon,2 point
+7,1,0%,Salmon,2 point
+8,1,0%,Salmon,2 point
+1,2,0%,Salmon,2 point
+2,2,100%,Salmon,2 point
+3,2,0%,Salmon,2 point
+4,2,0%,Salmon,2 point
+5,2,0%,Salmon,2 point
+6,2,100%,Salmon,2 point
+7,2,0%,Salmon,2 point
+8,2,0%,Salmon,2 point
+1,3,0%,Salmon,2 point
+2,3,0%,Salmon,2 point
+3,3,0%,Salmon,2 point
+4,3,0%,Salmon,2 point
+5,3,0%,Salmon,2 point
+6,3,0%,Salmon,2 point
+7,3,0%,Salmon,2 point
+8,3,0%,Salmon,2 point
+1,4,0%,Salmon,2 point
+2,4,0%,Salmon,2 point
+3,4,0%,Salmon,2 point
+4,4,0%,Salmon,2 point
+5,4,0%,Salmon,2 point
+6,4,0%,Salmon,2 point
+7,4,0%,Salmon,2 point
+8,4,0%,Salmon,2 point
+1,5,0%,Salmon,2 point
+2,5,0%,Salmon,2 point
+3,5,0%,Salmon,2 point
+4,5,0%,Salmon,2 point
+5,5,0%,Salmon,2 point
+6,5,0%,Salmon,2 point
+7,5,0%,Salmon,2 point
+8,5,0%,Salmon,2 point
+1,1,100%,Schwalger,2 point
+2,1,0%,Schwalger,2 point
+3,1,100%,Schwalger,2 point
+4,1,0%,Schwalger,2 point
+5,1,0%,Schwalger,2 point
+6,1,0%,Schwalger,2 point
+7,1,100%,Schwalger,2 point
+8,1,100%,Schwalger,2 point
+1,2,0%,Schwalger,2 point
+2,2,0%,Schwalger,2 point
+3,2,0%,Schwalger,2 point
+4,2,0%,Schwalger,2 point
+5,2,0%,Schwalger,2 point
+6,2,0%,Schwalger,2 point
+7,2,0%,Schwalger,2 point
+8,2,0%,Schwalger,2 point
+1,3,0%,Schwalger,2 point
+2,3,100%,Schwalger,2 point
+3,3,0%,Schwalger,2 point
+4,3,0%,Schwalger,2 point
+5,3,0%,Schwalger,2 point
+6,3,0%,Schwalger,2 point
+7,3,0%,Schwalger,2 point
+8,3,0%,Schwalger,2 point
+1,4,0%,Schwalger,2 point
+2,4,0%,Schwalger,2 point
+3,4,0%,Schwalger,2 point
+4,4,0%,Schwalger,2 point
+5,4,0%,Schwalger,2 point
+6,4,0%,Schwalger,2 point
+7,4,0%,Schwalger,2 point
+8,4,0%,Schwalger,2 point
+1,5,0%,Schwalger,2 point
+2,5,0%,Schwalger,2 point
+3,5,0%,Schwalger,2 point
+4,5,0%,Schwalger,2 point
+5,5,0%,Schwalger,2 point
+6,5,0%,Schwalger,2 point
+7,5,0%,Schwalger,2 point
+8,5,0%,Schwalger,2 point
+1,1,0%,Selby-Rickett,2 point
+2,1,0%,Selby-Rickett,2 point
+3,1,0%,Selby-Rickett,2 point
+4,1,0%,Selby-Rickett,2 point
+5,1,0%,Selby-Rickett,2 point
+6,1,0%,Selby-Rickett,2 point
+7,1,0%,Selby-Rickett,2 point
+8,1,100%,Selby-Rickett,2 point
+1,2,0%,Selby-Rickett,2 point
+2,2,100%,Selby-Rickett,2 point
+3,2,100%,Selby-Rickett,2 point
+4,2,0%,Selby-Rickett,2 point
+5,2,0%,Selby-Rickett,2 point
+6,2,0%,Selby-Rickett,2 point
+7,2,0%,Selby-Rickett,2 point
+8,2,0%,Selby-Rickett,2 point
+1,3,0%,Selby-Rickett,2 point
+2,3,0%,Selby-Rickett,2 point
+3,3,0%,Selby-Rickett,2 point
+4,3,0%,Selby-Rickett,2 point
+5,3,0%,Selby-Rickett,2 point
+6,3,0%,Selby-Rickett,2 point
+7,3,0%,Selby-Rickett,2 point
+8,3,0%,Selby-Rickett,2 point
+1,4,0%,Selby-Rickett,2 point
+2,4,0%,Selby-Rickett,2 point
+3,4,0%,Selby-Rickett,2 point
+4,4,0%,Selby-Rickett,2 point
+5,4,0%,Selby-Rickett,2 point
+6,4,0%,Selby-Rickett,2 point
+7,4,0%,Selby-Rickett,2 point
+8,4,0%,Selby-Rickett,2 point
+1,5,100%,Selby-Rickett,2 point
+2,5,50%,Selby-Rickett,2 point
+3,5,0%,Selby-Rickett,2 point
+4,5,50%,Selby-Rickett,2 point
+5,5,0%,Selby-Rickett,2 point
+6,5,100%,Selby-Rickett,2 point
+7,5,0%,Selby-Rickett,2 point
+8,5,100%,Selby-Rickett,2 point
+1,1,0%,Southby,2 point
+2,1,0%,Southby,2 point
+3,1,0%,Southby,2 point
+4,1,0%,Southby,2 point
+5,1,0%,Southby,2 point
+6,1,0%,Southby,2 point
+7,1,0%,Southby,2 point
+8,1,0%,Southby,2 point
+1,2,0%,Southby,2 point
+2,2,0%,Southby,2 point
+3,2,0%,Southby,2 point
+4,2,0%,Southby,2 point
+5,2,0%,Southby,2 point
+6,2,0%,Southby,2 point
+7,2,0%,Southby,2 point
+8,2,0%,Southby,2 point
+1,3,0%,Southby,2 point
+2,3,0%,Southby,2 point
+3,3,0%,Southby,2 point
+4,3,0%,Southby,2 point
+5,3,0%,Southby,2 point
+6,3,0%,Southby,2 point
+7,3,0%,Southby,2 point
+8,3,0%,Southby,2 point
+1,4,0%,Southby,2 point
+2,4,0%,Southby,2 point
+3,4,0%,Southby,2 point
+4,4,100%,Southby,2 point
+5,4,0%,Southby,2 point
+6,4,0%,Southby,2 point
+7,4,0%,Southby,2 point
+8,4,0%,Southby,2 point
+1,5,0%,Southby,2 point
+2,5,100%,Southby,2 point
+3,5,0%,Southby,2 point
+4,5,0%,Southby,2 point
+5,5,0%,Southby,2 point
+6,5,0%,Southby,2 point
+7,5,0%,Southby,2 point
+8,5,100%,Southby,2 point
+1,1,0%,Taylor,2 point
+2,1,0%,Taylor,2 point
+3,1,0%,Taylor,2 point
+4,1,0%,Taylor,2 point
+5,1,0%,Taylor,2 point
+6,1,0%,Taylor,2 point
+7,1,0%,Taylor,2 point
+8,1,0%,Taylor,2 point
+1,2,0%,Taylor,2 point
+2,2,0%,Taylor,2 point
+3,2,0%,Taylor,2 point
+4,2,0%,Taylor,2 point
+5,2,0%,Taylor,2 point
+6,2,0%,Taylor,2 point
+7,2,0%,Taylor,2 point
+8,2,0%,Taylor,2 point
+1,3,0%,Taylor,2 point
+2,3,0%,Taylor,2 point
+3,3,0%,Taylor,2 point
+4,3,0%,Taylor,2 point
+5,3,0%,Taylor,2 point
+6,3,0%,Taylor,2 point
+7,3,0%,Taylor,2 point
+8,3,0%,Taylor,2 point
+1,4,0%,Taylor,2 point
+2,4,0%,Taylor,2 point
+3,4,0%,Taylor,2 point
+4,4,0%,Taylor,2 point
+5,4,0%,Taylor,2 point
+6,4,0%,Taylor,2 point
+7,4,0%,Taylor,2 point
+8,4,0%,Taylor,2 point
+1,5,0%,Taylor,2 point
+2,5,0%,Taylor,2 point
+3,5,0%,Taylor,2 point
+4,5,0%,Taylor,2 point
+5,5,0%,Taylor,2 point
+6,5,0%,Taylor,2 point
+7,5,0%,Taylor,2 point
+8,5,0%,Taylor,2 point
+1,1,0%,Temu,2 point
+2,1,0%,Temu,2 point
+3,1,0%,Temu,2 point
+4,1,100%,Temu,2 point
+5,1,0%,Temu,2 point
+6,1,0%,Temu,2 point
+7,1,0%,Temu,2 point
+8,1,0%,Temu,2 point
+1,2,0%,Temu,2 point
+2,2,0%,Temu,2 point
+3,2,0%,Temu,2 point
+4,2,0%,Temu,2 point
+5,2,0%,Temu,2 point
+6,2,0%,Temu,2 point
+7,2,0%,Temu,2 point
+8,2,0%,Temu,2 point
+1,3,0%,Temu,2 point
+2,3,0%,Temu,2 point
+3,3,0%,Temu,2 point
+4,3,0%,Temu,2 point
+5,3,0%,Temu,2 point
+6,3,0%,Temu,2 point
+7,3,0%,Temu,2 point
+8,3,0%,Temu,2 point
+1,4,0%,Temu,2 point
+2,4,0%,Temu,2 point
+3,4,0%,Temu,2 point
+4,4,0%,Temu,2 point
+5,4,0%,Temu,2 point
+6,4,0%,Temu,2 point
+7,4,0%,Temu,2 point
+8,4,0%,Temu,2 point
+1,5,0%,Temu,2 point
+2,5,0%,Temu,2 point
+3,5,0%,Temu,2 point
+4,5,0%,Temu,2 point
+5,5,0%,Temu,2 point
+6,5,0%,Temu,2 point
+7,5,0%,Temu,2 point
+8,5,0%,Temu,2 point
+1,1,0%,Toeava,2 point
+2,1,0%,Toeava,2 point
+3,1,0%,Toeava,2 point
+4,1,0%,Toeava,2 point
+5,1,0%,Toeava,2 point
+6,1,0%,Toeava,2 point
+7,1,0%,Toeava,2 point
+8,1,0%,Toeava,2 point
+1,2,0%,Toeava,2 point
+2,2,0%,Toeava,2 point
+3,2,0%,Toeava,2 point
+4,2,0%,Toeava,2 point
+5,2,0%,Toeava,2 point
+6,2,0%,Toeava,2 point
+7,2,0%,Toeava,2 point
+8,2,0%,Toeava,2 point
+1,3,0%,Toeava,2 point
+2,3,0%,Toeava,2 point
+3,3,0%,Toeava,2 point
+4,3,0%,Toeava,2 point
+5,3,0%,Toeava,2 point
+6,3,0%,Toeava,2 point
+7,3,0%,Toeava,2 point
+8,3,0%,Toeava,2 point
+1,4,0%,Toeava,2 point
+2,4,0%,Toeava,2 point
+3,4,0%,Toeava,2 point
+4,4,0%,Toeava,2 point
+5,4,0%,Toeava,2 point
+6,4,0%,Toeava,2 point
+7,4,0%,Toeava,2 point
+8,4,0%,Toeava,2 point
+1,5,0%,Toeava,2 point
+2,5,0%,Toeava,2 point
+3,5,0%,Toeava,2 point
+4,5,0%,Toeava,2 point
+5,5,0%,Toeava,2 point
+6,5,0%,Toeava,2 point
+7,5,0%,Toeava,2 point
+8,5,0%,Toeava,2 point
+1,1,0%,Tui,2 point
+2,1,0%,Tui,2 point
+3,1,100%,Tui,2 point
+4,1,0%,Tui,2 point
+5,1,100%,Tui,2 point
+6,1,0%,Tui,2 point
+7,1,100%,Tui,2 point
+8,1,0%,Tui,2 point
+1,2,0%,Tui,2 point
+2,2,0%,Tui,2 point
+3,2,0%,Tui,2 point
+4,2,0%,Tui,2 point
+5,2,0%,Tui,2 point
+6,2,0%,Tui,2 point
+7,2,0%,Tui,2 point
+8,2,0%,Tui,2 point
+1,3,0%,Tui,2 point
+2,3,0%,Tui,2 point
+3,3,0%,Tui,2 point
+4,3,0%,Tui,2 point
+5,3,0%,Tui,2 point
+6,3,0%,Tui,2 point
+7,3,0%,Tui,2 point
+8,3,0%,Tui,2 point
+1,4,0%,Tui,2 point
+2,4,0%,Tui,2 point
+3,4,0%,Tui,2 point
+4,4,0%,Tui,2 point
+5,4,0%,Tui,2 point
+6,4,0%,Tui,2 point
+7,4,0%,Tui,2 point
+8,4,0%,Tui,2 point
+1,5,0%,Tui,2 point
+2,5,50%,Tui,2 point
+3,5,0%,Tui,2 point
+4,5,0%,Tui,2 point
+5,5,100%,Tui,2 point
+6,5,0%,Tui,2 point
+7,5,0%,Tui,2 point
+8,5,0%,Tui,2 point
+1,1,0%,Vui,2 point
+2,1,0%,Vui,2 point
+3,1,0%,Vui,2 point
+4,1,0%,Vui,2 point
+5,1,0%,Vui,2 point
+6,1,0%,Vui,2 point
+7,1,0%,Vui,2 point
+8,1,0%,Vui,2 point
+1,2,0%,Vui,2 point
+2,2,0%,Vui,2 point
+3,2,0%,Vui,2 point
+4,2,0%,Vui,2 point
+5,2,0%,Vui,2 point
+6,2,0%,Vui,2 point
+7,2,0%,Vui,2 point
+8,2,0%,Vui,2 point
+1,3,0%,Vui,2 point
+2,3,0%,Vui,2 point
+3,3,100%,Vui,2 point
+4,3,0%,Vui,2 point
+5,3,0%,Vui,2 point
+6,3,0%,Vui,2 point
+7,3,0%,Vui,2 point
+8,3,0%,Vui,2 point
+1,4,0%,Vui,2 point
+2,4,0%,Vui,2 point
+3,4,0%,Vui,2 point
+4,4,0%,Vui,2 point
+5,4,0%,Vui,2 point
+6,4,0%,Vui,2 point
+7,4,0%,Vui,2 point
+8,4,0%,Vui,2 point
+1,5,0%,Vui,2 point
+2,5,33%,Vui,2 point
+3,5,67%,Vui,2 point
+4,5,0%,Vui,2 point
+5,5,100%,Vui,2 point
+6,5,100%,Vui,2 point
+7,5,100%,Vui,2 point
+8,5,0%,Vui,2 point
+1,1,0%,Wallam,2 point
+2,1,100%,Wallam,2 point
+3,1,0%,Wallam,2 point
+4,1,100%,Wallam,2 point
+5,1,0%,Wallam,2 point
+6,1,100%,Wallam,2 point
+7,1,100%,Wallam,2 point
+8,1,100%,Wallam,2 point
+1,2,0%,Wallam,2 point
+2,2,0%,Wallam,2 point
+3,2,0%,Wallam,2 point
+4,2,0%,Wallam,2 point
+5,2,0%,Wallam,2 point
+6,2,100%,Wallam,2 point
+7,2,0%,Wallam,2 point
+8,2,0%,Wallam,2 point
+1,3,0%,Wallam,2 point
+2,3,0%,Wallam,2 point
+3,3,0%,Wallam,2 point
+4,3,0%,Wallam,2 point
+5,3,0%,Wallam,2 point
+6,3,0%,Wallam,2 point
+7,3,0%,Wallam,2 point
+8,3,0%,Wallam,2 point
+1,4,0%,Wallam,2 point
+2,4,0%,Wallam,2 point
+3,4,0%,Wallam,2 point
+4,4,0%,Wallam,2 point
+5,4,0%,Wallam,2 point
+6,4,0%,Wallam,2 point
+7,4,0%,Wallam,2 point
+8,4,0%,Wallam,2 point
+1,5,100%,Wallam,2 point
+2,5,0%,Wallam,2 point
+3,5,0%,Wallam,2 point
+4,5,0%,Wallam,2 point
+5,5,20%,Wallam,2 point
+6,5,0%,Wallam,2 point
+7,5,0%,Wallam,2 point
+8,5,0%,Wallam,2 point
+1,1,100%,Walmsley,2 point
+2,1,100%,Walmsley,2 point
+3,1,100%,Walmsley,2 point
+4,1,0%,Walmsley,2 point
+5,1,100%,Walmsley,2 point
+6,1,0%,Walmsley,2 point
+7,1,100%,Walmsley,2 point
+8,1,0%,Walmsley,2 point
+1,2,0%,Walmsley,2 point
+2,2,100%,Walmsley,2 point
+3,2,0%,Walmsley,2 point
+4,2,0%,Walmsley,2 point
+5,2,0%,Walmsley,2 point
+6,2,0%,Walmsley,2 point
+7,2,100%,Walmsley,2 point
+8,2,0%,Walmsley,2 point
+1,3,0%,Walmsley,2 point
+2,3,0%,Walmsley,2 point
+3,3,0%,Walmsley,2 point
+4,3,0%,Walmsley,2 point
+5,3,0%,Walmsley,2 point
+6,3,0%,Walmsley,2 point
+7,3,0%,Walmsley,2 point
+8,3,0%,Walmsley,2 point
+1,4,0%,Walmsley,2 point
+2,4,0%,Walmsley,2 point
+3,4,0%,Walmsley,2 point
+4,4,0%,Walmsley,2 point
+5,4,0%,Walmsley,2 point
+6,4,0%,Walmsley,2 point
+7,4,0%,Walmsley,2 point
+8,4,0%,Walmsley,2 point
+1,5,0%,Walmsley,2 point
+2,5,0%,Walmsley,2 point
+3,5,0%,Walmsley,2 point
+4,5,0%,Walmsley,2 point
+5,5,0%,Walmsley,2 point
+6,5,100%,Walmsley,2 point
+7,5,0%,Walmsley,2 point
+8,5,0%,Walmsley,2 point
+1,1,0%,Williams,2 point
+2,1,0%,Williams,2 point
+3,1,0%,Williams,2 point
+4,1,0%,Williams,2 point
+5,1,0%,Williams,2 point
+6,1,0%,Williams,2 point
+7,1,0%,Williams,2 point
+8,1,0%,Williams,2 point
+1,2,0%,Williams,2 point
+2,2,0%,Williams,2 point
+3,2,0%,Williams,2 point
+4,2,0%,Williams,2 point
+5,2,0%,Williams,2 point
+6,2,0%,Williams,2 point
+7,2,0%,Williams,2 point
+8,2,0%,Williams,2 point
+1,3,0%,Williams,2 point
+2,3,0%,Williams,2 point
+3,3,0%,Williams,2 point
+4,3,0%,Williams,2 point
+5,3,0%,Williams,2 point
+6,3,0%,Williams,2 point
+7,3,0%,Williams,2 point
+8,3,0%,Williams,2 point
+1,4,0%,Williams,2 point
+2,4,0%,Williams,2 point
+3,4,0%,Williams,2 point
+4,4,0%,Williams,2 point
+5,4,0%,Williams,2 point
+6,4,0%,Williams,2 point
+7,4,0%,Williams,2 point
+8,4,0%,Williams,2 point
+1,5,0%,Williams,2 point
+2,5,0%,Williams,2 point
+3,5,0%,Williams,2 point
+4,5,0%,Williams,2 point
+5,5,0%,Williams,2 point
+6,5,0%,Williams,2 point
+7,5,0%,Williams,2 point
+8,5,0%,Williams,2 point
+1,1,100%,Bird,Game
+2,1,100%,Bird,Game
+3,1,100%,Bird,Game
+4,1,100%,Bird,Game
+5,1,100%,Bird,Game
+6,1,100%,Bird,Game
+7,1,100%,Bird,Game
+8,1,100%,Bird,Game
+1,2,60%,Bird,Game
+2,2,0%,Bird,Game
+3,2,50%,Bird,Game
+4,2,0%,Bird,Game
+5,2,0%,Bird,Game
+6,2,100%,Bird,Game
+7,2,100%,Bird,Game
+8,2,0%,Bird,Game
+1,3,0%,Bird,Game
+2,3,0%,Bird,Game
+3,3,100%,Bird,Game
+4,3,0%,Bird,Game
+5,3,0%,Bird,Game
+6,3,0%,Bird,Game
+7,3,0%,Bird,Game
+8,3,0%,Bird,Game
+1,4,0%,Bird,Game
+2,4,0%,Bird,Game
+3,4,0%,Bird,Game
+4,4,0%,Bird,Game
+5,4,0%,Bird,Game
+6,4,0%,Bird,Game
+7,4,0%,Bird,Game
+8,4,0%,Bird,Game
+1,5,0%,Bird,Game
+2,5,0%,Bird,Game
+3,5,0%,Bird,Game
+4,5,100%,Bird,Game
+5,5,0%,Bird,Game
+6,5,0%,Bird,Game
+7,5,0%,Bird,Game
+8,5,0%,Bird,Game
+1,1,100%,Day,Game
+2,1,0%,Day,Game
+3,1,0%,Day,Game
+4,1,0%,Day,Game
+5,1,0%,Day,Game
+6,1,0%,Day,Game
+7,1,0%,Day,Game
+8,1,0%,Day,Game
+1,2,100%,Day,Game
+2,2,100%,Day,Game
+3,2,0%,Day,Game
+4,2,0%,Day,Game
+5,2,0%,Day,Game
+6,2,0%,Day,Game
+7,2,0%,Day,Game
+8,2,0%,Day,Game
+1,3,0%,Day,Game
+2,3,0%,Day,Game
+3,3,0%,Day,Game
+4,3,0%,Day,Game
+5,3,0%,Day,Game
+6,3,100%,Day,Game
+7,3,0%,Day,Game
+8,3,0%,Day,Game
+1,4,0%,Day,Game
+2,4,0%,Day,Game
+3,4,0%,Day,Game
+4,4,0%,Day,Game
+5,4,0%,Day,Game
+6,4,0%,Day,Game
+7,4,0%,Day,Game
+8,4,100%,Day,Game
+1,5,0%,Day,Game
+2,5,0%,Day,Game
+3,5,0%,Day,Game
+4,5,0%,Day,Game
+5,5,0%,Day,Game
+6,5,0%,Day,Game
+7,5,0%,Day,Game
+8,5,0%,Day,Game
+1,1,100%,Dijkstra,Game
+2,1,100%,Dijkstra,Game
+3,1,100%,Dijkstra,Game
+4,1,0%,Dijkstra,Game
+5,1,0%,Dijkstra,Game
+6,1,100%,Dijkstra,Game
+7,1,67%,Dijkstra,Game
+8,1,100%,Dijkstra,Game
+1,2,100%,Dijkstra,Game
+2,2,100%,Dijkstra,Game
+3,2,0%,Dijkstra,Game
+4,2,0%,Dijkstra,Game
+5,2,0%,Dijkstra,Game
+6,2,100%,Dijkstra,Game
+7,2,0%,Dijkstra,Game
+8,2,0%,Dijkstra,Game
+1,3,0%,Dijkstra,Game
+2,3,0%,Dijkstra,Game
+3,3,0%,Dijkstra,Game
+4,3,0%,Dijkstra,Game
+5,3,0%,Dijkstra,Game
+6,3,0%,Dijkstra,Game
+7,3,0%,Dijkstra,Game
+8,3,0%,Dijkstra,Game
+1,4,0%,Dijkstra,Game
+2,4,0%,Dijkstra,Game
+3,4,0%,Dijkstra,Game
+4,4,0%,Dijkstra,Game
+5,4,0%,Dijkstra,Game
+6,4,0%,Dijkstra,Game
+7,4,0%,Dijkstra,Game
+8,4,0%,Dijkstra,Game
+1,5,0%,Dijkstra,Game
+2,5,0%,Dijkstra,Game
+3,5,0%,Dijkstra,Game
+4,5,100%,Dijkstra,Game
+5,5,0%,Dijkstra,Game
+6,5,0%,Dijkstra,Game
+7,5,0%,Dijkstra,Game
+8,5,0%,Dijkstra,Game
+1,1,0%,Dunn,Game
+2,1,0%,Dunn,Game
+3,1,100%,Dunn,Game
+4,1,100%,Dunn,Game
+5,1,0%,Dunn,Game
+6,1,100%,Dunn,Game
+7,1,100%,Dunn,Game
+8,1,100%,Dunn,Game
+1,2,0%,Dunn,Game
+2,2,0%,Dunn,Game
+3,2,0%,Dunn,Game
+4,2,0%,Dunn,Game
+5,2,0%,Dunn,Game
+6,2,0%,Dunn,Game
+7,2,100%,Dunn,Game
+8,2,0%,Dunn,Game
+1,3,0%,Dunn,Game
+2,3,100%,Dunn,Game
+3,3,0%,Dunn,Game
+4,3,0%,Dunn,Game
+5,3,0%,Dunn,Game
+6,3,0%,Dunn,Game
+7,3,0%,Dunn,Game
+8,3,0%,Dunn,Game
+1,4,0%,Dunn,Game
+2,4,0%,Dunn,Game
+3,4,0%,Dunn,Game
+4,4,0%,Dunn,Game
+5,4,0%,Dunn,Game
+6,4,0%,Dunn,Game
+7,4,0%,Dunn,Game
+8,4,0%,Dunn,Game
+1,5,0%,Dunn,Game
+2,5,0%,Dunn,Game
+3,5,0%,Dunn,Game
+4,5,0%,Dunn,Game
+5,5,0%,Dunn,Game
+6,5,0%,Dunn,Game
+7,5,100%,Dunn,Game
+8,5,100%,Dunn,Game
+1,1,100%,Ekenasio,Game
+2,1,100%,Ekenasio,Game
+3,1,0%,Ekenasio,Game
+4,1,0%,Ekenasio,Game
+5,1,0%,Ekenasio,Game
+6,1,0%,Ekenasio,Game
+7,1,0%,Ekenasio,Game
+8,1,100%,Ekenasio,Game
+1,2,100%,Ekenasio,Game
+2,2,100%,Ekenasio,Game
+3,2,100%,Ekenasio,Game
+4,2,0%,Ekenasio,Game
+5,2,0%,Ekenasio,Game
+6,2,0%,Ekenasio,Game
+7,2,100%,Ekenasio,Game
+8,2,100%,Ekenasio,Game
+1,3,0%,Ekenasio,Game
+2,3,100%,Ekenasio,Game
+3,3,0%,Ekenasio,Game
+4,3,0%,Ekenasio,Game
+5,3,50%,Ekenasio,Game
+6,3,0%,Ekenasio,Game
+7,3,0%,Ekenasio,Game
+8,3,0%,Ekenasio,Game
+1,4,0%,Ekenasio,Game
+2,4,0%,Ekenasio,Game
+3,4,100%,Ekenasio,Game
+4,4,0%,Ekenasio,Game
+5,4,0%,Ekenasio,Game
+6,4,0%,Ekenasio,Game
+7,4,0%,Ekenasio,Game
+8,4,0%,Ekenasio,Game
+1,5,0%,Ekenasio,Game
+2,5,0%,Ekenasio,Game
+3,5,25%,Ekenasio,Game
+4,5,0%,Ekenasio,Game
+5,5,100%,Ekenasio,Game
+6,5,67%,Ekenasio,Game
+7,5,0%,Ekenasio,Game
+8,5,0%,Ekenasio,Game
+1,1,0%,Heffernan,Game
+2,1,0%,Heffernan,Game
+3,1,0%,Heffernan,Game
+4,1,0%,Heffernan,Game
+5,1,100%,Heffernan,Game
+6,1,0%,Heffernan,Game
+7,1,0%,Heffernan,Game
+8,1,0%,Heffernan,Game
+1,2,0%,Heffernan,Game
+2,2,100%,Heffernan,Game
+3,2,0%,Heffernan,Game
+4,2,0%,Heffernan,Game
+5,2,0%,Heffernan,Game
+6,2,0%,Heffernan,Game
+7,2,0%,Heffernan,Game
+8,2,0%,Heffernan,Game
+1,3,0%,Heffernan,Game
+2,3,0%,Heffernan,Game
+3,3,0%,Heffernan,Game
+4,3,0%,Heffernan,Game
+5,3,0%,Heffernan,Game
+6,3,0%,Heffernan,Game
+7,3,0%,Heffernan,Game
+8,3,0%,Heffernan,Game
+1,4,0%,Heffernan,Game
+2,4,0%,Heffernan,Game
+3,4,0%,Heffernan,Game
+4,4,0%,Heffernan,Game
+5,4,0%,Heffernan,Game
+6,4,0%,Heffernan,Game
+7,4,0%,Heffernan,Game
+8,4,0%,Heffernan,Game
+1,5,50%,Heffernan,Game
+2,5,0%,Heffernan,Game
+3,5,0%,Heffernan,Game
+4,5,0%,Heffernan,Game
+5,5,0%,Heffernan,Game
+6,5,0%,Heffernan,Game
+7,5,100%,Heffernan,Game
+8,5,0%,Heffernan,Game
+1,1,100%,Lafi'ili,Game
+2,1,100%,Lafi'ili,Game
+3,1,0%,Lafi'ili,Game
+4,1,0%,Lafi'ili,Game
+5,1,50%,Lafi'ili,Game
+6,1,100%,Lafi'ili,Game
+7,1,100%,Lafi'ili,Game
+8,1,0%,Lafi'ili,Game
+1,2,100%,Lafi'ili,Game
+2,2,100%,Lafi'ili,Game
+3,2,100%,Lafi'ili,Game
+4,2,0%,Lafi'ili,Game
+5,2,0%,Lafi'ili,Game
+6,2,0%,Lafi'ili,Game
+7,2,0%,Lafi'ili,Game
+8,2,0%,Lafi'ili,Game
+1,3,0%,Lafi'ili,Game
+2,3,0%,Lafi'ili,Game
+3,3,0%,Lafi'ili,Game
+4,3,0%,Lafi'ili,Game
+5,3,100%,Lafi'ili,Game
+6,3,0%,Lafi'ili,Game
+7,3,0%,Lafi'ili,Game
+8,3,0%,Lafi'ili,Game
+1,4,100%,Lafi'ili,Game
+2,4,0%,Lafi'ili,Game
+3,4,0%,Lafi'ili,Game
+4,4,0%,Lafi'ili,Game
+5,4,0%,Lafi'ili,Game
+6,4,0%,Lafi'ili,Game
+7,4,0%,Lafi'ili,Game
+8,4,100%,Lafi'ili,Game
+1,5,50%,Lafi'ili,Game
+2,5,0%,Lafi'ili,Game
+3,5,0%,Lafi'ili,Game
+4,5,0%,Lafi'ili,Game
+5,5,0%,Lafi'ili,Game
+6,5,100%,Lafi'ili,Game
+7,5,0%,Lafi'ili,Game
+8,5,0%,Lafi'ili,Game
+1,1,0%,Malesala,Game
+2,1,0%,Malesala,Game
+3,1,0%,Malesala,Game
+4,1,0%,Malesala,Game
+5,1,0%,Malesala,Game
+6,1,0%,Malesala,Game
+7,1,0%,Malesala,Game
+8,1,100%,Malesala,Game
+1,2,0%,Malesala,Game
+2,2,0%,Malesala,Game
+3,2,0%,Malesala,Game
+4,2,0%,Malesala,Game
+5,2,0%,Malesala,Game
+6,2,0%,Malesala,Game
+7,2,0%,Malesala,Game
+8,2,0%,Malesala,Game
+1,3,0%,Malesala,Game
+2,3,0%,Malesala,Game
+3,3,0%,Malesala,Game
+4,3,0%,Malesala,Game
+5,3,0%,Malesala,Game
+6,3,0%,Malesala,Game
+7,3,0%,Malesala,Game
+8,3,0%,Malesala,Game
+1,4,0%,Malesala,Game
+2,4,0%,Malesala,Game
+3,4,0%,Malesala,Game
+4,4,0%,Malesala,Game
+5,4,0%,Malesala,Game
+6,4,0%,Malesala,Game
+7,4,0%,Malesala,Game
+8,4,0%,Malesala,Game
+1,5,0%,Malesala,Game
+2,5,0%,Malesala,Game
+3,5,0%,Malesala,Game
+4,5,0%,Malesala,Game
+5,5,0%,Malesala,Game
+6,5,0%,Malesala,Game
+7,5,0%,Malesala,Game
+8,5,0%,Malesala,Game
+1,1,0%,Pelasio,Game
+2,1,0%,Pelasio,Game
+3,1,0%,Pelasio,Game
+4,1,0%,Pelasio,Game
+5,1,0%,Pelasio,Game
+6,1,0%,Pelasio,Game
+7,1,0%,Pelasio,Game
+8,1,0%,Pelasio,Game
+1,2,0%,Pelasio,Game
+2,2,100%,Pelasio,Game
+3,2,0%,Pelasio,Game
+4,2,0%,Pelasio,Game
+5,2,0%,Pelasio,Game
+6,2,0%,Pelasio,Game
+7,2,100%,Pelasio,Game
+8,2,0%,Pelasio,Game
+1,3,0%,Pelasio,Game
+2,3,0%,Pelasio,Game
+3,3,100%,Pelasio,Game
+4,3,100%,Pelasio,Game
+5,3,0%,Pelasio,Game
+6,3,0%,Pelasio,Game
+7,3,0%,Pelasio,Game
+8,3,0%,Pelasio,Game
+1,4,0%,Pelasio,Game
+2,4,0%,Pelasio,Game
+3,4,100%,Pelasio,Game
+4,4,40%,Pelasio,Game
+5,4,33%,Pelasio,Game
+6,4,100%,Pelasio,Game
+7,4,0%,Pelasio,Game
+8,4,0%,Pelasio,Game
+1,5,0%,Pelasio,Game
+2,5,0%,Pelasio,Game
+3,5,100%,Pelasio,Game
+4,5,100%,Pelasio,Game
+5,5,50%,Pelasio,Game
+6,5,75%,Pelasio,Game
+7,5,33%,Pelasio,Game
+8,5,0%,Pelasio,Game
+1,1,100%,Salmon,Game
+2,1,100%,Salmon,Game
+3,1,100%,Salmon,Game
+4,1,100%,Salmon,Game
+5,1,100%,Salmon,Game
+6,1,100%,Salmon,Game
+7,1,100%,Salmon,Game
+8,1,83%,Salmon,Game
+1,2,100%,Salmon,Game
+2,2,100%,Salmon,Game
+3,2,100%,Salmon,Game
+4,2,0%,Salmon,Game
+5,2,100%,Salmon,Game
+6,2,100%,Salmon,Game
+7,2,100%,Salmon,Game
+8,2,100%,Salmon,Game
+1,3,0%,Salmon,Game
+2,3,0%,Salmon,Game
+3,3,0%,Salmon,Game
+4,3,0%,Salmon,Game
+5,3,100%,Salmon,Game
+6,3,0%,Salmon,Game
+7,3,0%,Salmon,Game
+8,3,0%,Salmon,Game
+1,4,0%,Salmon,Game
+2,4,0%,Salmon,Game
+3,4,0%,Salmon,Game
+4,4,0%,Salmon,Game
+5,4,0%,Salmon,Game
+6,4,0%,Salmon,Game
+7,4,0%,Salmon,Game
+8,4,0%,Salmon,Game
+1,5,0%,Salmon,Game
+2,5,0%,Salmon,Game
+3,5,0%,Salmon,Game
+4,5,0%,Salmon,Game
+5,5,0%,Salmon,Game
+6,5,0%,Salmon,Game
+7,5,0%,Salmon,Game
+8,5,0%,Salmon,Game
+1,1,100%,Schwalger,Game
+2,1,0%,Schwalger,Game
+3,1,100%,Schwalger,Game
+4,1,100%,Schwalger,Game
+5,1,0%,Schwalger,Game
+6,1,0%,Schwalger,Game
+7,1,100%,Schwalger,Game
+8,1,100%,Schwalger,Game
+1,2,0%,Schwalger,Game
+2,2,0%,Schwalger,Game
+3,2,100%,Schwalger,Game
+4,2,0%,Schwalger,Game
+5,2,0%,Schwalger,Game
+6,2,50%,Schwalger,Game
+7,2,0%,Schwalger,Game
+8,2,0%,Schwalger,Game
+1,3,0%,Schwalger,Game
+2,3,100%,Schwalger,Game
+3,3,0%,Schwalger,Game
+4,3,0%,Schwalger,Game
+5,3,0%,Schwalger,Game
+6,3,0%,Schwalger,Game
+7,3,0%,Schwalger,Game
+8,3,0%,Schwalger,Game
+1,4,0%,Schwalger,Game
+2,4,0%,Schwalger,Game
+3,4,0%,Schwalger,Game
+4,4,0%,Schwalger,Game
+5,4,0%,Schwalger,Game
+6,4,100%,Schwalger,Game
+7,4,0%,Schwalger,Game
+8,4,0%,Schwalger,Game
+1,5,0%,Schwalger,Game
+2,5,0%,Schwalger,Game
+3,5,0%,Schwalger,Game
+4,5,0%,Schwalger,Game
+5,5,0%,Schwalger,Game
+6,5,0%,Schwalger,Game
+7,5,0%,Schwalger,Game
+8,5,0%,Schwalger,Game
+1,1,0%,Selby-Rickett,Game
+2,1,100%,Selby-Rickett,Game
+3,1,0%,Selby-Rickett,Game
+4,1,0%,Selby-Rickett,Game
+5,1,0%,Selby-Rickett,Game
+6,1,0%,Selby-Rickett,Game
+7,1,100%,Selby-Rickett,Game
+8,1,100%,Selby-Rickett,Game
+1,2,0%,Selby-Rickett,Game
+2,2,100%,Selby-Rickett,Game
+3,2,100%,Selby-Rickett,Game
+4,2,0%,Selby-Rickett,Game
+5,2,100%,Selby-Rickett,Game
+6,2,0%,Selby-Rickett,Game
+7,2,0%,Selby-Rickett,Game
+8,2,100%,Selby-Rickett,Game
+1,3,100%,Selby-Rickett,Game
+2,3,0%,Selby-Rickett,Game
+3,3,0%,Selby-Rickett,Game
+4,3,100%,Selby-Rickett,Game
+5,3,0%,Selby-Rickett,Game
+6,3,50%,Selby-Rickett,Game
+7,3,100%,Selby-Rickett,Game
+8,3,100%,Selby-Rickett,Game
+1,4,0%,Selby-Rickett,Game
+2,4,0%,Selby-Rickett,Game
+3,4,0%,Selby-Rickett,Game
+4,4,0%,Selby-Rickett,Game
+5,4,0%,Selby-Rickett,Game
+6,4,100%,Selby-Rickett,Game
+7,4,0%,Selby-Rickett,Game
+8,4,100%,Selby-Rickett,Game
+1,5,100%,Selby-Rickett,Game
+2,5,50%,Selby-Rickett,Game
+3,5,0%,Selby-Rickett,Game
+4,5,50%,Selby-Rickett,Game
+5,5,0%,Selby-Rickett,Game
+6,5,100%,Selby-Rickett,Game
+7,5,0%,Selby-Rickett,Game
+8,5,100%,Selby-Rickett,Game
+1,1,0%,Southby,Game
+2,1,0%,Southby,Game
+3,1,0%,Southby,Game
+4,1,0%,Southby,Game
+5,1,0%,Southby,Game
+6,1,0%,Southby,Game
+7,1,100%,Southby,Game
+8,1,0%,Southby,Game
+1,2,0%,Southby,Game
+2,2,0%,Southby,Game
+3,2,0%,Southby,Game
+4,2,0%,Southby,Game
+5,2,0%,Southby,Game
+6,2,0%,Southby,Game
+7,2,0%,Southby,Game
+8,2,0%,Southby,Game
+1,3,0%,Southby,Game
+2,3,100%,Southby,Game
+3,3,0%,Southby,Game
+4,3,100%,Southby,Game
+5,3,0%,Southby,Game
+6,3,0%,Southby,Game
+7,3,0%,Southby,Game
+8,3,0%,Southby,Game
+1,4,0%,Southby,Game
+2,4,0%,Southby,Game
+3,4,0%,Southby,Game
+4,4,100%,Southby,Game
+5,4,0%,Southby,Game
+6,4,50%,Southby,Game
+7,4,0%,Southby,Game
+8,4,0%,Southby,Game
+1,5,0%,Southby,Game
+2,5,100%,Southby,Game
+3,5,0%,Southby,Game
+4,5,0%,Southby,Game
+5,5,0%,Southby,Game
+6,5,0%,Southby,Game
+7,5,0%,Southby,Game
+8,5,100%,Southby,Game
+1,1,100%,Taylor,Game
+2,1,50%,Taylor,Game
+3,1,0%,Taylor,Game
+4,1,0%,Taylor,Game
+5,1,100%,Taylor,Game
+6,1,100%,Taylor,Game
+7,1,0%,Taylor,Game
+8,1,100%,Taylor,Game
+1,2,0%,Taylor,Game
+2,2,100%,Taylor,Game
+3,2,0%,Taylor,Game
+4,2,0%,Taylor,Game
+5,2,0%,Taylor,Game
+6,2,0%,Taylor,Game
+7,2,0%,Taylor,Game
+8,2,0%,Taylor,Game
+1,3,0%,Taylor,Game
+2,3,0%,Taylor,Game
+3,3,0%,Taylor,Game
+4,3,0%,Taylor,Game
+5,3,0%,Taylor,Game
+6,3,0%,Taylor,Game
+7,3,0%,Taylor,Game
+8,3,0%,Taylor,Game
+1,4,0%,Taylor,Game
+2,4,0%,Taylor,Game
+3,4,0%,Taylor,Game
+4,4,0%,Taylor,Game
+5,4,0%,Taylor,Game
+6,4,0%,Taylor,Game
+7,4,0%,Taylor,Game
+8,4,0%,Taylor,Game
+1,5,0%,Taylor,Game
+2,5,0%,Taylor,Game
+3,5,0%,Taylor,Game
+4,5,0%,Taylor,Game
+5,5,0%,Taylor,Game
+6,5,0%,Taylor,Game
+7,5,0%,Taylor,Game
+8,5,0%,Taylor,Game
+1,1,50%,Temu,Game
+2,1,0%,Temu,Game
+3,1,100%,Temu,Game
+4,1,100%,Temu,Game
+5,1,100%,Temu,Game
+6,1,100%,Temu,Game
+7,1,0%,Temu,Game
+8,1,86%,Temu,Game
+1,2,0%,Temu,Game
+2,2,0%,Temu,Game
+3,2,0%,Temu,Game
+4,2,100%,Temu,Game
+5,2,0%,Temu,Game
+6,2,0%,Temu,Game
+7,2,0%,Temu,Game
+8,2,0%,Temu,Game
+1,3,0%,Temu,Game
+2,3,0%,Temu,Game
+3,3,0%,Temu,Game
+4,3,0%,Temu,Game
+5,3,0%,Temu,Game
+6,3,0%,Temu,Game
+7,3,0%,Temu,Game
+8,3,0%,Temu,Game
+1,4,0%,Temu,Game
+2,4,0%,Temu,Game
+3,4,0%,Temu,Game
+4,4,0%,Temu,Game
+5,4,0%,Temu,Game
+6,4,0%,Temu,Game
+7,4,100%,Temu,Game
+8,4,0%,Temu,Game
+1,5,0%,Temu,Game
+2,5,0%,Temu,Game
+3,5,0%,Temu,Game
+4,5,0%,Temu,Game
+5,5,0%,Temu,Game
+6,5,0%,Temu,Game
+7,5,0%,Temu,Game
+8,5,0%,Temu,Game
+1,1,0%,Toeava,Game
+2,1,0%,Toeava,Game
+3,1,0%,Toeava,Game
+4,1,0%,Toeava,Game
+5,1,0%,Toeava,Game
+6,1,0%,Toeava,Game
+7,1,0%,Toeava,Game
+8,1,0%,Toeava,Game
+1,2,0%,Toeava,Game
+2,2,0%,Toeava,Game
+3,2,0%,Toeava,Game
+4,2,0%,Toeava,Game
+5,2,0%,Toeava,Game
+6,2,0%,Toeava,Game
+7,2,0%,Toeava,Game
+8,2,0%,Toeava,Game
+1,3,0%,Toeava,Game
+2,3,0%,Toeava,Game
+3,3,0%,Toeava,Game
+4,3,0%,Toeava,Game
+5,3,0%,Toeava,Game
+6,3,0%,Toeava,Game
+7,3,0%,Toeava,Game
+8,3,0%,Toeava,Game
+1,4,0%,Toeava,Game
+2,4,0%,Toeava,Game
+3,4,0%,Toeava,Game
+4,4,0%,Toeava,Game
+5,4,0%,Toeava,Game
+6,4,0%,Toeava,Game
+7,4,0%,Toeava,Game
+8,4,0%,Toeava,Game
+1,5,0%,Toeava,Game
+2,5,0%,Toeava,Game
+3,5,0%,Toeava,Game
+4,5,0%,Toeava,Game
+5,5,0%,Toeava,Game
+6,5,0%,Toeava,Game
+7,5,0%,Toeava,Game
+8,5,0%,Toeava,Game
+1,1,100%,Tui,Game
+2,1,100%,Tui,Game
+3,1,100%,Tui,Game
+4,1,100%,Tui,Game
+5,1,100%,Tui,Game
+6,1,100%,Tui,Game
+7,1,100%,Tui,Game
+8,1,67%,Tui,Game
+1,2,100%,Tui,Game
+2,2,0%,Tui,Game
+3,2,0%,Tui,Game
+4,2,0%,Tui,Game
+5,2,0%,Tui,Game
+6,2,0%,Tui,Game
+7,2,100%,Tui,Game
+8,2,0%,Tui,Game
+1,3,0%,Tui,Game
+2,3,0%,Tui,Game
+3,3,0%,Tui,Game
+4,3,0%,Tui,Game
+5,3,0%,Tui,Game
+6,3,0%,Tui,Game
+7,3,0%,Tui,Game
+8,3,0%,Tui,Game
+1,4,0%,Tui,Game
+2,4,0%,Tui,Game
+3,4,0%,Tui,Game
+4,4,0%,Tui,Game
+5,4,0%,Tui,Game
+6,4,0%,Tui,Game
+7,4,100%,Tui,Game
+8,4,0%,Tui,Game
+1,5,0%,Tui,Game
+2,5,50%,Tui,Game
+3,5,0%,Tui,Game
+4,5,0%,Tui,Game
+5,5,100%,Tui,Game
+6,5,50%,Tui,Game
+7,5,0%,Tui,Game
+8,5,0%,Tui,Game
+1,1,100%,Vui,Game
+2,1,0%,Vui,Game
+3,1,33%,Vui,Game
+4,1,0%,Vui,Game
+5,1,0%,Vui,Game
+6,1,0%,Vui,Game
+7,1,50%,Vui,Game
+8,1,0%,Vui,Game
+1,2,100%,Vui,Game
+2,2,0%,Vui,Game
+3,2,100%,Vui,Game
+4,2,0%,Vui,Game
+5,2,0%,Vui,Game
+6,2,100%,Vui,Game
+7,2,0%,Vui,Game
+8,2,0%,Vui,Game
+1,3,100%,Vui,Game
+2,3,50%,Vui,Game
+3,3,100%,Vui,Game
+4,3,0%,Vui,Game
+5,3,0%,Vui,Game
+6,3,100%,Vui,Game
+7,3,0%,Vui,Game
+8,3,67%,Vui,Game
+1,4,0%,Vui,Game
+2,4,0%,Vui,Game
+3,4,0%,Vui,Game
+4,4,0%,Vui,Game
+5,4,0%,Vui,Game
+6,4,0%,Vui,Game
+7,4,100%,Vui,Game
+8,4,0%,Vui,Game
+1,5,0%,Vui,Game
+2,5,33%,Vui,Game
+3,5,67%,Vui,Game
+4,5,0%,Vui,Game
+5,5,100%,Vui,Game
+6,5,100%,Vui,Game
+7,5,100%,Vui,Game
+8,5,0%,Vui,Game
+1,1,100%,Wallam,Game
+2,1,100%,Wallam,Game
+3,1,92%,Wallam,Game
+4,1,78%,Wallam,Game
+5,1,83%,Wallam,Game
+6,1,100%,Wallam,Game
+7,1,100%,Wallam,Game
+8,1,78%,Wallam,Game
+1,2,100%,Wallam,Game
+2,2,100%,Wallam,Game
+3,2,0%,Wallam,Game
+4,2,0%,Wallam,Game
+5,2,0%,Wallam,Game
+6,2,83%,Wallam,Game
+7,2,100%,Wallam,Game
+8,2,100%,Wallam,Game
+1,3,0%,Wallam,Game
+2,3,0%,Wallam,Game
+3,3,0%,Wallam,Game
+4,3,0%,Wallam,Game
+5,3,0%,Wallam,Game
+6,3,0%,Wallam,Game
+7,3,0%,Wallam,Game
+8,3,0%,Wallam,Game
+1,4,0%,Wallam,Game
+2,4,0%,Wallam,Game
+3,4,0%,Wallam,Game
+4,4,100%,Wallam,Game
+5,4,0%,Wallam,Game
+6,4,0%,Wallam,Game
+7,4,0%,Wallam,Game
+8,4,0%,Wallam,Game
+1,5,100%,Wallam,Game
+2,5,0%,Wallam,Game
+3,5,0%,Wallam,Game
+4,5,0%,Wallam,Game
+5,5,20%,Wallam,Game
+6,5,0%,Wallam,Game
+7,5,0%,Wallam,Game
+8,5,0%,Wallam,Game
+1,1,100%,Walmsley,Game
+2,1,100%,Walmsley,Game
+3,1,100%,Walmsley,Game
+4,1,100%,Walmsley,Game
+5,1,100%,Walmsley,Game
+6,1,100%,Walmsley,Game
+7,1,83%,Walmsley,Game
+8,1,100%,Walmsley,Game
+1,2,100%,Walmsley,Game
+2,2,100%,Walmsley,Game
+3,2,100%,Walmsley,Game
+4,2,0%,Walmsley,Game
+5,2,0%,Walmsley,Game
+6,2,0%,Walmsley,Game
+7,2,100%,Walmsley,Game
+8,2,0%,Walmsley,Game
+1,3,0%,Walmsley,Game
+2,3,0%,Walmsley,Game
+3,3,0%,Walmsley,Game
+4,3,0%,Walmsley,Game
+5,3,0%,Walmsley,Game
+6,3,0%,Walmsley,Game
+7,3,0%,Walmsley,Game
+8,3,0%,Walmsley,Game
+1,4,0%,Walmsley,Game
+2,4,0%,Walmsley,Game
+3,4,0%,Walmsley,Game
+4,4,0%,Walmsley,Game
+5,4,0%,Walmsley,Game
+6,4,0%,Walmsley,Game
+7,4,0%,Walmsley,Game
+8,4,0%,Walmsley,Game
+1,5,0%,Walmsley,Game
+2,5,0%,Walmsley,Game
+3,5,0%,Walmsley,Game
+4,5,0%,Walmsley,Game
+5,5,0%,Walmsley,Game
+6,5,100%,Walmsley,Game
+7,5,0%,Walmsley,Game
+8,5,0%,Walmsley,Game
+1,1,0%,Williams,Game
+2,1,0%,Williams,Game
+3,1,0%,Williams,Game
+4,1,0%,Williams,Game
+5,1,0%,Williams,Game
+6,1,0%,Williams,Game
+7,1,0%,Williams,Game
+8,1,0%,Williams,Game
+1,2,0%,Williams,Game
+2,2,0%,Williams,Game
+3,2,0%,Williams,Game
+4,2,0%,Williams,Game
+5,2,0%,Williams,Game
+6,2,0%,Williams,Game
+7,2,0%,Williams,Game
+8,2,0%,Williams,Game
+1,3,0%,Williams,Game
+2,3,0%,Williams,Game
+3,3,0%,Williams,Game
+4,3,0%,Williams,Game
+5,3,0%,Williams,Game
+6,3,0%,Williams,Game
+7,3,0%,Williams,Game
+8,3,0%,Williams,Game
+1,4,0%,Williams,Game
+2,4,0%,Williams,Game
+3,4,0%,Williams,Game
+4,4,0%,Williams,Game
+5,4,0%,Williams,Game
+6,4,0%,Williams,Game
+7,4,0%,Williams,Game
+8,4,0%,Williams,Game
+1,5,0%,Williams,Game
+2,5,0%,Williams,Game
+3,5,0%,Williams,Game
+4,5,0%,Williams,Game
+5,5,0%,Williams,Game
+6,5,0%,Williams,Game
+7,5,0%,Williams,Game
+8,5,0%,Williams,Game
