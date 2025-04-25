@@ -1,3 +1,5 @@
+import os
+import datetime
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -7,18 +9,31 @@ from scipy.interpolate import griddata
 # Load with header row included
 df = pd.read_csv("new_data.csv")
 
+# Get file last modified timestamp
+file_path = "new_data.csv"
+last_modified = os.path.getmtime(file_path)
+last_updated = datetime.datetime.fromtimestamp(last_modified).strftime("%Y-%m-%d %H:%M:%S")
+
+
 # Clean and convert types
+df = pd.read_csv("new_data.csv")
 df["X"] = df["X"].astype(int)
 df["Y"] = df["Y"].astype(int)
 df["Accuracy"] = df["Accuracy"].str.replace('%', '').astype(float)
 
 
 # 2. Streamlit UI
-st.title("Semi-Circular Player Heatmap")
+st.title("Shooting Accuracy Heatmap")
 selected_player = st.selectbox("Choose a player", df["Player"].unique())
+selected_type = st.selectbox("Choose shot period", df["Period"].unique())
+
+# Show last updated time
+st.markdown(f"🕒 **Last updated:** {last_updated}")
 
 # 3. Filter data
-data = df[df["Player"] == selected_player]
+data = df[(df["Player"] == selected_player) &
+          (df["Period"] == selected_type)].copy()
+
 
 # 4. Polar transformation
 theta_map = dict(zip(range(1, 9), np.linspace(0, np.pi, 8)))
@@ -36,7 +51,8 @@ x = radius_grid * np.cos(theta_grid)
 y = radius_grid * np.sin(theta_grid)
 
 # 6. Interpolate accuracy values
-interp = griddata((data["x"], data["y"]), data["Accuracy"], (x, y), method='cubic')
+interp = griddata((data['x'], data['y']), data['Accuracy'], (x, y), method='cubic')
+interp = np.clip(interp, 0, 100)
 mask = radius_grid <= 5
 masked = np.where(mask, interp, np.nan)
 
