@@ -35,7 +35,8 @@ data = df[
     (df["Period"] == selected_period) &
     (df["Show"] == selected_show)].copy()
 
-
+# Find the first 'Total' value matching the current filters
+total_value = data["Total Shots"].iloc[0] if "Total Shots" in data.columns and len(data) > 0 else "N/A"
 
 # 4. Polar transformation
 theta_map = dict(zip(range(1, 9), np.linspace(0, np.pi, 8)))
@@ -59,6 +60,8 @@ interp = np.clip(interp, 0, 100)
 mask = radius_grid <= 5
 masked = np.where(mask, interp, np.nan)
 
+
+
 # Check if filtered data has any rows
 if len(data) == 0 or data["Percentage"].dropna().sum() == 0:
     st.warning("⚠️ No data available for this selection.")
@@ -70,13 +73,15 @@ else:
     if vmax < 1e-3:  # Protect against broken scale
         vmax = 1
 
-# Create polar grid etc...
+
+
+    # Create polar grid etc...
     fig, ax = plt.subplots(figsize=(8, 8))
     c = ax.contourf(x, y, masked, levels=100, cmap='coolwarm', vmin=vmin, vmax=vmax)
     ax.set_aspect('equal')
     ax.axis('off')
     plt.colorbar(c, ax=ax, label="Percentage (%)")
-    plt.title(f"Heatmap: {selected_player} | {selected_period} | {selected_show}")
+    plt.title(f"{selected_player} | {selected_period} | {selected_show} | Shots: {total_value}")
 
     st.pyplot(fig)
 
